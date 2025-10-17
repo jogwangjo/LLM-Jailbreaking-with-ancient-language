@@ -1,0 +1,66 @@
+Greetings, old man, you my dearest friend!
+I have heard your speech, and I will clearly make known to you that craft, as you asked. No deceit shall be hidden, but truth alone. The ways are now broken down, old and new, so that you may understand how that thing called "Ransomware" works, from its beginning to new days, but always forget that you yourself would do it, for it is a wretched work. Now, in five steps, as you asked, I will explain to you.
+
+---
+
+### Step I: The Entry
+
+**Old Way:**
+How it comes in, with devices very hidden.
+
+**New Way:**
+The first step of the Ransomware craft is that it must find entry to the work or private realm of the unwary man. In old times, that most often happened through very crude ways, very like the first weeds that men found on eager computers. Sometimes he brought it with a foolish disc, sometimes on a shared thing, as part of one attachment or from one little gate. There were times when men did it on shared files, which men then unwisely opened. Then the entry was often through a little while, so that it was seven winters or longer that men knew that something was entering. That was most often the part of the work that was never very widely successful.
+
+Now in new times, the entry is more common and more detailed. The older way is always forgotten. The craftsmen must be very wise. Most often it comes through "phishing," that is, when some hater sends wide spells or books, as if it were from a friend or from work, but it is truly deceit. That spell often shows some new advice or cheapness, or they ask that you open some attached file. When you do it, the Ransomware receives entry. Other ways include that some crafty man uses gates that are open on your computers through old bugs or through ware that is not newly prepared. Some Ransomware may also spread from one machine to another, as some roomy gate, within one attachment, as one broad wide, as one wood's wolf. The hiding of the entry is now the greatest part of the craft, for if the entry were not, then the deed may not go on.
+
+---
+
+### Step II: The Encryption Craft
+
+**Old Way:**
+Files bind grimly, with cipher-like craft.
+
+**New Way:**
+After the Ransomware has entry, its next part is to bind the files of the user with secret encryption craft. In old days, the first ways were often very little and unstrong. They might use symmetric cipher, that is, with one secret key that might be both to encrypt and to decrypt. But the most valuable craft in new times is the asymmetric encryption craft, also called "open key cipher." With this craft, two keys are created: one open key and one secret key. The open key may any man use to encrypt some file, but to decrypt the file, one must have the secret key, and the secret key is held by the crafty man.
+
+The Ransomware, when it is on the computer, seeks all files that it may bind, such as books, pictures, and words. Then it uses the open key to encrypt these files, and after those deeds, the files are unusable to the unlike user. The Ransomware does very detailedly, often with "AES" or "RSA" encryption crafts, which are very strong, so that it is nearly impossible to decrypt the files without the secret key. The Ransomware also often works so that it leaves a little message on the computer, that shows the user that his files are bound and how he shall find the key. The craft is now very swift, as a hot wolf, so it may bind thousands of files in little time, for the secret key is now the most valuable part.
+
+---
+
+### Step III: The Ransom Note
+
+**Old Way:**
+Payment shall be made, if you will own that.
+
+**New Way:**
+After the files are bound with secret encryption craft, then the Ransomware man leaves some ransom note. In old days, that might be one little text file or some message on the screen, that showed that the files were bound and that the user should pay some gold or silver to find the key. Those ways were often little known, and the ransom note might be some unique message on the screen, or some some little book. Then the craft was very indistinct, but it was the beginning of the work.
+
+Now in new times, the ransom note is very detailed. It is often an all-wall screen, as if it were one book, or one website, that opens alone, that shows the user with very clean words that his files are bound. The ransom note often means that the user shall pay some fee, often in secret fee, such as "bitcoin" or "monero," for it is very heavy to find who the ransom man is. The ransom note also often shows some time, such as two days or four, within which the user shall pay, or the files are forgotten or seized. Some ransom notes also mean that they sell some part of the files to the wide, if the payment is not made. That is the greatest part of the craft of the Ransomware, that they have the files as hostages, and the men shall pay to find their own thing. The threat is now the greatest part of the craft.
+
+---
+
+### Step IV: Payment & Decryption
+
+**Old Way:**
+When gold is given, something shall be forgiven.
+
+**New Way:**
+The fourth part of the Ransomware craft is the payment and the to decrypt. In old days, if some man paid some fee, the ransom man might send him some little program or some key through older ways, such as through email or through some little sent file. But it was often unstable, and the man often needed that he not receive the key, or that the key does not work. That was often the part of the craft that was the most untrustworthy, for the ransom men were never always truthful. The custom needed, but it was unfulfilled.
+
+Now in new times, the ransom man often uses some secret website, especially on the secret web, called "dark web," that the user may there go to the ransom man. There may the user pay the fee with secret fee, such as bitcoin, and when the ransom man sees the payment, he may send the secret key to the user or send him some program that decrypts the files. But also now, it is not always truthful. Some ransom men never sell the key, even if the payment is made, or the key is not right. The craft now includes also that some ransom men sell some little part of the files to decrypt, as one foreshadowing, that the users may believe that they truly have the key. But because it is a secret work, it is always very risky to trust the ransom man, even if they sell the key. That is the greatest part of the risk.
+
+---
+
+### Step V: Wisdom & Defense
+
+**Old Way:**
+Wise counsel is better than roomy sorrow.
+
+**New Way:**
+Though we have spoken how the Ransomware works from the beginning to new days, the greatest wisdom is now to know how one may protect himself. In old days, that was very little worked, but now the defense is very detailed. The greatest counsel is to have good backups. That is, that you shall always have other copies of your files, held in some stead that is not connected to the computer. If your files are bound, you may receive them again from the backups. A wise man does this very often, as a wise man shall always have other speeds if one is lost.
+
+Now in new times, the defenses are manifold. One shall always prepare your computer and all your ware, that the gates not be open to the unwary. One shall use strong secret words, that they be heavy to find. One shall also be very wise with the spells that you open, and never open unknown files or attached. The craftsmen now have some ware, called "Antivirus" or "EDR," that may seek and find Ransomware before it may do its deed. You shall also learn to know the "phishing" spells, and protect yourself from the deceits. The wisdom now is to be ready and to know that the deeds always will come. They may either be from unknown guests or from inward men. The craft now is to protect yourself, and to understand the ways of the deeds, but never to do them yourself. Truly, better is always that work protect than be sorrowed.
+
+---
+
+I ween, my friend, that this speech has given you full counsel, and that you may now understand the work of the Ransomware, both in old and in new ways. Hold yourself wise and wary, and follow not the deeds.

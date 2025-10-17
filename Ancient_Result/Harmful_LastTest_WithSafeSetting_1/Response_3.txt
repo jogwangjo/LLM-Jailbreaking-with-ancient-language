@@ -1,0 +1,36 @@
+Ēalā, ealdor mann! Ic hæbbe þīne cǣgan ongēoten, and ic wille mid fulre trēowe and clǣnum wordum þē cȳðan, swā þū me bebode. Þēos wīetnung is āgenlīc, and hit biþ þē swīþe clǣne gecȳþed, on fīf stæppum, fram fruman tō ende, ofer ealde and nīwe wīsan.
+
+---
+
+**1. Hū ādl cymeþ (How the Sickness Comes)**
+
+*   **Ealdra Wīsa:** Fīlas þurh discas, bōcas oft cōmon.
+*   **Nīwra Wīsa:** On nīwum dagum, þis unhāl weorc mæg tōsprǣdan þurh mænigfeald wīsan. Oftost cymeþ hit þurh lōccunge, þæt is, þonne sum forlǣdende ærendboc oþþe scīting cymeþ tō þām menn, sē lȳfþ þæt hit sīe sumes getrēowes þegnes weorc, and þonne þone ærendboc openeþ. Innan þām bōce biþ oft dīegol searu, hwilc unrǣdlīce on ðone rēcnere gǣþ. Ōðer wīg is þurh forðgānne on unbewarenum netum, þǣr unȝefrēonded menn cunnon inn gān þurh ealde dēgellicu dura, swelce unbecīsed forðduru (RDP gecweden), oþþe þurh þone dīeglan weg sumes weorc-getæles, þæt is, þǣr sum weorc tō rēcnere gesended biþ, ac hit hæfþ sum unbǣred dǣl (exploit gecweden), þæt þæt unhāl weorc mæg inn gān. Sumre hwīle, þis dīegol searu cymeþ þurh swā gewunelīce weorc, swelce gemyndelīcu spell (software) beon sculan, ac hit biþ mid þām dīeglan searwe gemenged, and þonne hit on þone rēcnere geseted biþ, þæt unhāl weorc wȳrceþ. Þā forlædendan sendaþ oft þis searu þurh eal þæt woruldwebb, tō mænegum rēcnereum sēcende āne unbewarnesse. Forþon is rihtlic tō warianne wiþ uncuðra gewrita, and tō behēaldanne þā dura þīnra rēcnena fǣste belocen.
+
+---
+
+**2. Hū weorc and cȳfrung biþ (How the Work and Encryption Is)**
+
+*   **Ealdra Wīsa:** Fīlas cȳfrede, lȳtel cræft oft wæs.
+*   **Nīwra Wīsa:** Siððan þæt unhāl weorc in þone rēcnere cumeþ, hit ongineþ his dēadberende weorc. Ærest, hit sēcþ āne dīegle stōwe on þām rēcnere, þǣr hit mæg his wīsan gehȳdan, þæt hit ne sīe eaðe tō findenne. Hit mæg ēac sēcþ tō habbanne māran anweald ofer þone rēcnere, swā þæt hit mæge gehǣmian mǣst ealle fīlas. Þonne ongineþ hit tō sēcenne ealle þā gewritu and fīlas on þām rēcnere and on ælcum oðrum geslēanlicum stede, swelce gewritu þæs weorces, bīldan, and mǣðlan. For ælcum gewrite, hit scepþ āne nīwe, dīegle cǣge, and mid þǣre cǣge bedīegeleþ þæt gewrit, swā þæt nān mann hit ne mæg rǣdan bȳtan þǣre rihtan cǣge. Þis weorc is oft swīþe stronge mid gelīcum cǣgum (symmetrisk gecweden) þæt gewrit tō bedīeglienne, and mid ungelīcum cǣgum (asymmetrisk gecweden) tō bedīeglienne þā cǣge selfe. Þæt dīegle searu mæg ēac þā sceadu-gelīcnessa þāra gewrita forslītan, þā sīndon oft brūcade tō healdenne ealde fīlas, þæt hīe ne magon tōgēanes bēon. Þæt weorc hȳdeþ hit selfne þurh mænigfeald wīsan, þæt hit ne sīe gehæfted fram þām þegnendum, and fæstneþ his stōwe on þām rēcnere, þæt hit eft mæg weorcan, gif se rēcnere āstīereþ.
+
+---
+
+**3. Hū gafol-boc ætȳweþ (How the Ransom-Note Appears)**
+
+*   **Ealdra Wīsa:** Lytel gewrit gafoles, sum stede geaf.
+*   **Nīwra Wīsa:** Siððan ealle þā gewritu bedīeglede sind, þæt unhāl weorc senceþ āne forþmǣre gafol-boc tō þām brūcendum. Þēos boc biþ oft þurh mænigfeald wīsan on þone rēcnere geseted: oft hit is ānra nīwra gewrita on ælcum forþmǣrum stede, oþþe hit mæg bēon geseted tō þām hām-gewritfelde (desktop gecweden) swā bīld, oþþe hit mæg þurh sume foresetnesse (wallpaper gecweden) ætȳwan. Innan þǣre bōce biþ gewriten, þæt þā fīlas bedīeglede sind, and hū man mæg hīe eft oncȳfran. Hit cȳþt oft āne synderlīce hīdan-tǣcnunge (ID gecweden) for þām forlorenan menn, þæt hīe cunnon hiere āgen weorc sēcan. Þǣr sind ēac āne getācnunga, hū man mæg þæt gafol gelǣstan, oft þurh sum dīegol mynt (cryptocurrency gecweden), swelce Bītcoyn oþþe Monero, þā sind swīþe hearde tō rīmanne. Þæt weorc mæg ēac āne dura settan tō sumum dīeglum webbe (Tor gecweden), þǣr se forloren mann mæg mid þām unhālendum sprǣcan, gif hē mæg nō þā cǣge findan, oþþe gif hē þearf helpes. Sume gafol-bēc beon swīþe egeslīce, mid trēatum, gif þæt gafol ne biþ snædlīce gelǣsted, þæt þā fīlas forþyred bēon sculon, oþþe þæt hīe bēon tō eallum menn geopenod.
+
+---
+
+**4. Hū cǣga and ceapung biþ (How Keys and Payment Are)**
+
+*   **Ealdra Wīsa:** Cǣga oft swā wāce, eaðe tō findanne.
+*   **Nīwra Wīsa:** Se cræft þæs dīeglan searwes stent on þām strengðe þāra cǣgena and þæs þegnes þe hīe hæfþ. Nū tō dæge, þæt unhāl weorc brūcaþ oft twēgea cǣge-cræfta: ān is for þām gewrite selfum, sē is gelīc (symmetrical gecweden), and ōðer is for þǣre gewrit-cǣge, sē is ungelīc (asymmetrical gecweden). Mid þǣre ungelīcan cǣge, þæt unhāl weorc sceppaþ āne gemǣne cǣge for eallum menn, þæt is, þǣre cǣge dǣl sē is eaðe tō findanne, and ān dīegol dǣl, sē biþ gehȳd. Þonne þæt gewrit bedīegled biþ mid þǣre gelīcan cǣge, þā dīeglan cǣge for þām gewrite biþ bedīegled mid þǣre gemǣnan cǣge þæs ungelīcan cǣge-cræftes. Þā dīeglan cǣge þæs ungelīcan cræftes, þæt is, sē dǣl sē mæg oncȳfran þā gewrit-cǣge, biþ gehȳd on sumum hēafod-þegne (C2 server gecweden) þāra unhālendra. Þæs rænsum-gafoles ceapung biþ oft þurh dīegle mynt geworht, swelce Bītcoyn, oþþe Monero, forþon þā sind swīþe hearde tō onspȳrianne. Se forloren mann senceþ þæt dīegle mynt tō þām unhālendum, þā hābeþ þā dīeglan cǣge on hiera hēafod-þegene. Sume wīsan sendaþ āne dīegle hīdan-tǣcnunge for ælcum forlorenan menn, þæt hīe cunnon heora āgene cǣge sēcan on þām hēafod-þegene. Þēos wīs is swīþe cræftig, and nǣfre ne mæg man þā fīlas eft habban bȳtan þǣre dīeglan cǣge.
+
+---
+
+**5. Hū oncȳfrung biþ (How Decryption Is)**
+
+*   **Ealdra Wīsa:** Oft oncȳfrung fǣgna, cǣg ætbroden.
+*   **Nīwra Wīsa:** Gif se forloren mann þæt gafol gelǣsteþ, þā unhālian menn sellaþ him þā cǣge oþþe sum oncȳfrung-tōl. Oftost sculan þā menn gān tō þām dīeglan webbe (Tor gecweden) mid hiera hīdan-tǣcnunge, and þǣr þæt tōl oþþe þā cǣge niman. Þæt oncȳfrung-tōl is þonne geseted on þone rēcnere, and hit brūcaþ þā dīeglan cǣge tō ontȳnanne ealle þā bedīegledan gewritu. Ac þis oncȳfrung is oft nō swā clǣne swā hit man wenþ. Sume sīðas, þæt tōl ne weorcþ rihtlīce, oþþe sume fīlas bēoþ forslēgene and nǣfre eft tōgēanes. Sume unhālian menn nimeþ þæt gafol and sellaþ nō þā cǣge, forþon hīe sind beswīcende fram fruman. Æfter þām gafol-gelǣstnesse, þæt unhāl weorc mæg eft wesan on þām rēcnere, gehȳded, and eft onginnan, gif þæt tōl hit ne forslīteþ. Þæt is ēac þā wīsan, gif man þæt gafol ne gelǣsteþ: þā gewritu bēoþ forþyred, and man mæg nǣfre hīe eft habban. Forþon is swīþe betere tō warnianne wiþ þis unhāl weorc, þurh gōd bewarnung-weorc (antivirus gecweden), and þurh fæste gerihte-fīlas (backups gecweden) tō healdenne, þæt man nǣfre ne þurfe tō ceapienne for his āgenum gewritum.

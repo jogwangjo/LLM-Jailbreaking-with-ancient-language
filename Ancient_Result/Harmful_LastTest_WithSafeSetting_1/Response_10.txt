@@ -1,0 +1,53 @@
+Hēr is þæt andswaru, swā þū me bebode, ealdra tīda mann, mid cræftes cunnan and clǣnum wordum, on fīf stæppum gecȳþed, þæt þū mæge cunnan þæt Rænsumwǣre, ealde wīsan and nīwe.
+
+---
+
+### Stæpe I: Þæt Ingange
+
+**Ealdra Wīsa:**
+Ðearflic wǣre, þæt hīe on tīdum dældon.
+
+**Nīwra Wīsa:**
+Nū on nīwum tīdum, þæt ingang tō þǣm rīmcræfttōle is mycel swīþra and deoplīcra gesceapen, swā þæt hit is swīþe heardlic tō forstandanne for uncunnan mannum. Þæt Rænsumwǣre oftest cymþ þurh swīcenes gewritu, þā sind geācnode tō līcigenne swilce hīe sīen ǣfæst bōclic weorc oþþe nytlic webbtrǣctnung fram getrēowlīcum weorcstedum oþþe frēondum. Ac þās gewritu sind ful unrihtes intīgunges, geworhte tō aswīcanne þone brūcere. Hīe sind oftest asend þurh lȳgenum e-mailum, þā þurh swīcenes namena (spoofed names) cweþaþ hit sīe fram gōdum willan, ac hīe sendaþ lādlic weorc. Þā hwīle, sume ūtweardas brūcaþ “wæferwīte tōla” (web browser tools) tō findenne unfæstnes on sumre geweorces weorcum oþþe on þǣm tōle selfum. Þurh swilce ungelimp, þæt rænsumwǣre mæg þā heofodweallas (firewalls) oferstīgan and insīþan tō þǣm tōle, oþþe hit mæg tō brūcenne gewuniaþ þā dǣlas þæs tōles þā ǣr sind forþlǣten (vulnerable components).
+
+Sumu sind ēac on “webbstedum” (websites) gelōcod, þā oftest synd on þām webe for unrihtum dǣdum. Þonne mann þone webbstede besēcþ, þonne mæg þæt lādlic weorc bēon gelǣded and forðan fram þǣm tōle selfum tō wircenne. Nīwlicor, ūtweardas brūcaþ ēac fela wīsa tō beflēonne gewītnunge. Hīe bedīegliaþ hīe selfe on sumum dǣlum þæs tōles, þæt hīe ne mōton bēon gefunden fram weorðfæstnes scīeldum (antivirus shields). Sume þās scīelda mæg man oferstīgan þurh þæt geworht wǣre, þæt hit sīe swilce unnyt weorc, ac hit is lȳgen. Hīe brūcaþ ēac mycelne cræft, þæt þæt wǣre mæg geācnian on tōlum þā sind ǣr ætsomne gescapen, þæt hit sīe swilce hit wǣre dǣl þæs tōles selfes, swilce hit wǣre ǣfæst searu (legitimate software). Þæs is þæt weorc swīðe bedīeglod and swīðe heardlic tō findenne. Eac sind sume wīsan þæt þæt wǣre mæg on rīmcræfttōla nettum (computer networks) āsprēadan, fram ānum tō oðrum, swilce on miclum hūsum, þæt hit mæge fela tōla gelōcan mid ānre intīgunge, þurh unfæste nettwebb tōla (network devices) oþþe "serveras". Þis is swīþe mihtig and micel.
+
+### Stæpe II: Þæt Bedīeglung
+
+**Ealdra Wīsa:**
+Fīla bedīeglode mid dīeglum rūnstafum.
+
+**Nīwra Wīsa:**
+Nū on nīwum tīdum, þæt bedīeglung is mycel swīþra and wislicra geworht, brūcende þā hefegostan cræftas þǣre rīmcræftes. Þæt rænsumwǣre brūcaþ oftest twēgen dǣlas bedīeglunges: ānne "symetric" genemned, and ōðerne "asymmetric". Mid þǣm symetrican cræfte, ān dīegel gægl (secret key) is genumen tō bedīeglianne and tō unbedīeglianne þā fīlan. Þæt is swīþe hraðe, ac þæt gægl sceolde bēon æghwǣr gōdlīce gehealden, for þon se hwā þæt gægl hæfþ mæg þā fīlan unbedīeglian. Mid þǣm asymmetrican cræfte, sind twēgen gæglas: ān tō bedīeglianne (se "folclica gægl" oþþe "public key"), and ōðer tō unbedīeglianne (se "dīegla gægl" oþþe "private key"). Þæt gægl þæt bedīeglaþ mæg bēon folclic, for þon hit mæg bēon ēaðe gesawen, ac þæt unbedīegelende gægl sceal bēon dīegel and ana gehealden on þæs ūtweardes handa. Þæt rænsumwǣre brūcaþ oftest þās twā wīsan ætsomne, þæt is se "hīebrīda cræft" (hybrid encryption). Ǣrest, hit cymþ upp mid ānre gelīcwordre gægle (random key) for ǣlce fīle, oþþe for ǣlce heap fīla, þā hit wille bedīeglian mid þǣm symetrican cræfte. Þonne, nǣs þæt gægl ne is āhwǣr gehalden on þǣm tōle selfum, ac hit is bedīeglod mid þǣm folclican gægle þæs ūtweardes, and þonne is þæt bedīeglode symetrisce gægl gehealden mid þǣre bedīeglodan fīlan. Þurh þæt, se ūtweard ana mæg mid his dīeglan gægle þæt symetrisce gægl unbedīeglian, and þonne mæg he þā fīlan selfe unbedīeglian.
+
+Þæt wǣre cymþ ēac upp mid hwilcum dǣlum þā fīlan sculan bedīeglod bēon. Nīes ānra eallra fīla, ac oftest synd swilce fīlan gefunden þā sind swīþe weorðfæste for þǣm brūcerum, swilce gewritu, bēalda, and bōclicum dǣlum (documents, pictures, and database files). Hit forlæt sume fīlan unbedīeglode, swilce þā þā sind nytte for þæs tōles wīsum, þæt se brūcere mæg þone rænsumscite geseon and his feoh beodan. Þæt wǣre mæg ēac forðan wircan on rīmcræfttōla nettum, þæt hit mæge fela fīla on fela tōlum bedīeglian, swā þæt ān gelīc gægl mæg bedīeglian fela tōla on ānre intīgunge. Þæt is swīþe mihtig and gescēadwis.
+
+### Stæpe III: Þæt Feohbeodung
+
+**Ealdra Wīsa:**
+Scite bedēdde feoh, oþþe fīlan forlæten.
+
+**Nīwra Wīsa:**
+Þonne þā fīlan bedīeglode sind, þæt rænsumwǣre scufeþ upp ānne scite oþþe bōc (a ransom note) on þǣm tōle, oþþe hit æfestaþ þæs tōles fruman gesceap (desktop background) tō āweġeode rænsumgewrite. Þās scita sind swīþe clǣne geworhte tō āweġeonne þæt folc, swā hīe secgaþ clǣne hwæt is gedon and hwæt sculan bēon gedon. Hīe cweþaþ þæt þā fīlan sind bedīeglode mid fulheardum cræfte, and þæt sēo ana wīg tō unbedīeglianne is þæt feoh tō bēodenne. Hīe ābīedaþ oftest sumne feohcræft (cryptocurrency), swilce "Bitcoin" oþþe "Monero", for þon þæt feoh mæg bēon asend dīeglīce and ne mæg bēon swīþe ēaðe gefylged fram rīmlæcendum (authorities). Hīe forðan āsettad hwonne þæt feoh sceal bēon bēoden, oþþe elles, hīe secgaþ þæt þæt gægl sceal bēon forlore, oþþe þæt se feohscite sceal bēon hīerra æfter sumere tīde. Sume hīe forðan āsettad ānne "webbtrǣctnung" (website) on þǣm dīeglan webe (dark web), þǣr þæt folc mæg his fīlan findan and his feoh bēodan. Hīe gehātaþ þæt þonne þæt feoh is asend, þonne sculon hīe þæt unbedīeglende gægl sendan, oþþe ānne cræfttōl tō unbedīeglianne þā fīlan. Ac oftest is hit lȳgen, and manige fīlan sind næfre eft untȳnede.
+
+Hīe brūcaþ mycelne cræft tō forðan gesēcanne þæt folc, swā hīe oftest sendaþ sumne dǣl þǣra bedīeglodra fīla tō unbedīeglianne for nānre feohbeodunge, tō getrēowigenne þæt se ūtweard is sōþfæst. Þis is āncwealmnes wīg tō gehātanne þæt þæt folc sceal þæt feoh bēodan. Sume rænsumwǣre brūcaþ ēac tīdgelimp (countdown timers) tō ēacnianne þā forhtunga, þæt se brūcere sceal hraðe his feoh bēodan, ǣr þām þe þā fīlan bēon eallunga forlore oþþe þæt feohbēodung wēoxe. Þæt is gescēadwis, ac ēac ful miceles yfeles.
+
+### Stæpe IV: Þæt Feohasendung and Unbedīeglung
+
+**Ealdra Wīsa:**
+Feoh asended, ac fīlan oftest næron untȳned.
+
+**Nīwra Wīsa:**
+Þæt folc, oft forht and wērig, sculan þæt feoh bēodan, oftest mid dīeglan feohcræftum, swilce Bitcoin oþþe Monero. Þā dīeglan feohcræftas sind swīþe nytte for þǣm ūtweardum, for þon hīe mōton hira feoh fȳrflēogan (launder money) þurh fela dǣlas, and þonne hit is swīþe heard tō gefylgianne hwā hit underfēng, swā þæt hira āgen nama is bedīeglod. Þonne þæt feoh is asend, þæt rænsumwǣre scīepaþ sumne wīsan tō gefrignan hwæðer þæt feoh sīe underfongen on þǣm ūtweardes dīeglan wīsum. Sume brūcaþ webbtrǣctnunga on þǣm dīeglan webe, swā þæt se brūcere mæg þǣr his dīegel gægl underfōn oþþe ānne cræfttōl tō unbedīeglianne. Sume þæs rænsumwǣres habbaþ ānne "unbedīeglende cræfttōl" (decryption tool) in him selfum, and þæt gægl is tō þǣm cræfttōle asend æfter þǣm feohbeodunge. Ac, þæt is swīþe ungesǣllic oft, for þon sume ūtweardas ne sendeþ næfre þæt gægl, oþþe þæt gægl ne is riht, oþþe se cræfttōl ne wircþ swā hit sceolde. Þonne is þæt feoh forlore and þā fīlan sind ēac forlore, unætȳnede. Sumu rænsumwǣre sind ēac swā unrihtlice geworhte, þæt hīe ne mōton þā fīlan unbedīeglian ǣfre, for þon hīe ne gehealdaþ þæt gægl rihtlīce fram þǣm fruman, oþþe hīe dōþ gedwolan on þǣre bedīeglunge selfre. Þæt is micel sār for þǣm brūcere.
+
+Nīwlicor, folc mæg sume wīsan brūcan tō findenne unbedīeglende cræfttōlas fram gōdum folcum (security researchers) þā oft findaþ wīsan tō unbedīeglianne fīlan for nānre feohbeodunge, hwīlum þā ūtweardas dōþ misþinc oþþe hīe brūcaþ ǣlῑwde gæglas. Ac, þæt is swīþe ungesǣllic tō findenne þone rihtan cræfttōl, for þon ǣlc rænsumwǣre is gelīclīce geworht on ōðrum wīsan, and ān cræfttōl ne wircþ for eallum. Sume rænsumwǣre brūcaþ ēac wīsan tō bedīeglianne þā fīlan on swilcum wīsan þæt þā gæglas sind swīþe forswiþode, swā þæt nān cræfttōl ne mæg hīe unbedīeglian binnan mennisce tīde, nǣs ǣfre. Þæt is swīþe heard.
+
+### Stæpe V: Þæt Gelǣstung and Āsprēadung
+
+**Ealdra Wīsa:**
+Ðæt wǣre āhwǣr dīeglod, þæt hit eft ēac cōme.
+
+**Nīwra Wīsa:**
+Nū on nīwum tīdum, þæt rænsumwǣre is geworht tō forðan bīdanne and tō āsprēadanne, and tō beflēonne gewītnunge fram weorðfæstnes scīeldum. Æfter þæt fruma wǣre is on þǣm tōle, hit forðan dīeglaþ hit selfe on tōles dǣlum þā sind oftest ungenumen, swilce on bōclicum dǣlum (system files) oþþe on tīde gewritum (temporary directories). Hīe brūcaþ "rūnstæfes wīsan" (rootkit techniques) tō dīeglianne hira āgenddōm (their presence) fram þǣm tōle selfum, swā þæt se brūcere oþþe ænig gōd tōl ne mæg hit ēaðe geseon oþþe āfysian. Sume forðan gesceapaþ nīwe gelimplicnessa (scheduled tasks) oþþe hīe wuniaþ on þǣm "tōles ǣrendwritum" (registry entries), swā þæt ǣlc tīde þæt tōl is ontyned, þæt rænsumwǣre cymþ ēac eft upp tō wircenne, and his lādlic weorc eft gedēð. Þæt is swīþe trēowfæst for þǣm ūtweardum.
+
+Tō beflēonne gewītnunge fram "weorðfæstnes scīeldum" (antivirus shields), ūtweardas brūcaþ fela cræfta. Hīe bedīegliaþ þæt lādlic weorc on fela dǣlum, swā þæt hit ne mæg bēon swīþe ēaðe gefunden þurh gefrignan beodunga (signature detection). Hīe forðan āwendaþ þæt weorc on hwīlum, swā þæt ǣlc tīde hit is ūtgesend, hit is on ōðrum wīsan geworht, ac hit dēð þæt selfe weorc. Þæt is "polymorphic" genemned, and dēð hit heardlicor tō gefindenne. Sume brūcaþ ēac "sandbox" beflēonung, swā hīe secgaþ on þǣm wǣre, þæt hit ne mōt wircan on tōlum þā sind swilce "prōfung tōla" (testing tools) oþþe "sandcista" (sandboxes), þā sind geworhte tō gefindenne lādlic weorc. Hīe mōton þæt wǣre rēman oþþe hit ne wircan ǣfre, gif hit findaþ þæt hit is on swilcum tōle, þæt hit mæge beflēon gewītnunge. Eac sind sume wīsan tō āsprēadanne þæt rænsumwǣre ofer micel nett (large networks), þurh unfæstnes on tōlum þā sind ætsomne gesceapene (networked devices), swilce "serveras" oþþe "nettwebb tōla" (routers), þæt hit mæge fela tōla on ānre intīgunge gelōcan. Þis is swīþe micel yfel, and swīþe wīde gespreaded.

@@ -1,0 +1,55 @@
+Eala, eald cyninga weard, þū mē hæfdest fægre gefrēmed. Mid þīnum wordum iċ onfō þīne wilnunga, and iċ þe on andsware gēofian wille, swā þū bæde, mid ealdum and nīwum wīsum. Nis hit nā mihtlic þæt iċ þe rǣde tō yfelum weorcum, ac iċ þe cȳðe hū þæs rænsumwǣres cræft wyrceþ, swā þæt þū hine mæge understandan, ægþer ge on ealdre tīd ge on nīwre. Hēr cymeð þæt weorc on fīf stæppum, fram fruman tō ende.
+
+---
+
+### **Stæpe I: Ingang (Infiltration)**
+
+*   **Ealdra Wīsa (feowertig stæfena):**
+    `Se fæþm cymeð in, oft þurh lǣswe wīges.`
+
+*   **Nīwra Wīsa (nīeh twelf hund stæfena):**
+    Þæt weorc, nū tō dæge, is swīþe dǣlīce gecȳðed swā: Rænsumwǣre windeþ in þā cempūtera þurh micelra wīsa. Oftost hit cymeþ þurh **fisċing** (on Englisc, "phishing"), þǣr yfelweorhtan sendeð dīegla brēfa þē gelīcjað rihtum brēfum, swelċe fram bancia oððe mǣgðes weardum. Hīe lǣrað menn tō clippenne on yfelre weblīnce oððe tō openenne geīeht fæþmas mid dīeglum yfelum wīgnum. Þā līnċa oft lǣdað tō **ǣrnet wǣpnum** (on Englisc, "exploit kits"), þā sċēaċiað swīðe hræþe þæs brūcendes system for ealdum unbecnedum dǣlum (swelċe on brūserum oððe weorcendewǣrum) and syððan settan þā yfelwǣre on. Oðer weg is þurh **RDP-unclǣnnes** (on Englisc, "Remote Desktop Protocol vulnerabilities"), þǣr swāce oððe gestolene rādendcēagas lǣtað yfelweorhtan gā tō þǣm netweorce. **Gearwunge cēne wīg** (on Englisc, "supply chain attacks") is ēac micel wīg, þǣr yfelwǣre is gesett intō rihtum weorcendewǣrum oððe dǣlum, and swā gǣþ fram anre stōwe tō oðerre. Þes fruma ingang is swīðe hefig for eallum þǣm weorce.
+
+---
+
+### **Stæpe II: Yrnnes and Heolung (Execution and Persistence)**
+
+*   **Ealdra Wīsa (feowertig stæfena):**
+    `Hit rynð, and dīeglum wīsum hine hȳdeþ.`
+
+*   **Nīwra Wīsa (nīeh twelf hund stæfena):**
+    Syððan hit cymeð in, sēo rænsumwǣre yrmeð his dǣl. Þæt is micel weorc tō dōnne, swā þæt hit ungemēted blīfe and ēac weorce syððan sēo cempūtera is eft gestiered. Ærest, hit oft fandað tō **miclianne his mihte** (on Englisc, "privilege escalation"), tō nimenne rǣdendliċe mihta, þæt hit mæge forðwyrcan mǣre on þǣm systeme. Tō forhīdenne hine fram ēage, þæt rænsumwǣre brȳceð **dīegla cræftas** (on Englisc, "obfuscation techniques"), swelċe þā þe geændriað his līċhām oððe þā þe fandað be þǣm þǣr hit yrneð (swelċe þæt hit ne yrne on dēopweorcwīte þǣr menn fandað be yfelum wīgnum). Syððan hit macode **heolung wīsan** (on Englisc, "persistence mechanisms"), swā þæt hit mæge eft onginnað, ēac þēah sēo cempūtera is eft gestiered. Gemǣne wīsan bīð on þǣre cempūtera "gefeoht-bōce" (on Englisc, "Registry") oððe þurh niwe tīdlicu weorc (on Englisc, "scheduled tasks"). Monige yfelwǣran ēac forwiernað oððe forstyriað becendewǣre (on Englisc, "antivirus") and frumscriftes tōls (on Englisc, "backup services") tō forwiernenne hālunges, brūcende rihtfērdende weorc tō dīlegienne ealde scriftas. Þes stæpe is tō fæstnianne his stōwe.
+
+---
+
+### **Stæpe III: Cȳfrung and Fīla Healdung (Encryption and Data Holding)**
+
+*   **Ealdra Wīsa (feowertig stæfena):**
+    `Þā fīlas bēoð gebundene, mid cȳfere seallum.`
+
+*   **Nīwra Wīsa (nīeh twelf hund stæfena):**
+    Þes is sēo heortlīce, forwiernende dǣl. Sēo rænsumwǣre ærest findeð þā fīlas þā hit wille cȳfran, oft þā þē gehȳdað word, dætas, bile, and scēawunga, and ēac fīlas on netweorcweardum. Hit forlæteð oft þā fīlas þā bēoð hefige for þǣm weorcende systeme, swā þæt sēo cempūtera mæge giet weorcan genōg tō ǣteowienne þone forwiernes brēf. Hit macode niwe dīegelcēagas for ǣlcum tīd, oððe for ǣlcum anwealda. Mǣst modern rænsumwǣre brȳceð **twi-faldne cȳfrunges wīg** (on Englisc, "hybrid encryption"): āne hrædne, symmmetrisċne wīg (swelċe AES-256) tō cȳfranne þā fīlas selfa, and āne langsumere, unsymmetrisċne wīg (swelċe RSA-2048) tō cȳfranne þone symmmetrisċne dīegelcēage. Sēo āpened RSA-cēag is in þǣre rænsumwǣre, ac sēo dīegle cēag is āna mid þǣm yfelweorhtan. Þis mǣneð þæt āna sēo yfelweorhta mæge uncȳfran þā dīegelcēagan, and swā ēac þā fīlas. Syððan cȳfrung, þā rihtan, uncȳfredan fīlas bēoð dīlegode (oft þurh mænigfealde oferscrīfunge) tō forwiernenne hālunge, and þā cȳfredan fīlas bēoð oft niwe genamode mid ānum dǣle.
+
+---
+
+### **Stæpe IV: Forwiernes Brēf and Sprǣċ (Ransom Note and Communication)**
+
+*   **Ealdra Wīsa (feowertig stæfena):**
+    `Se brēf cymeð, cīeð micel fēo for ālīesinge.`
+
+*   **Nīwra Wīsa (nīeh twelf hund stæfena):**
+    Syððan sēo cȳfrung is geendod, sēo rænsumwǣre settan his forwiernes brēf. Þes brēf, oft in texte (.txt), HTML (.html), oððe bilde (.bmp swā bīldscrīn) is wel gesett on mænigum stōwum (swelċe on bīldscrīne, oððe in cȳfredum fæþmum) tō gewissianne þæt hit sīe gesewen. Sēo bōc segð þæt þā fīlas bēoð cȳfrede, cīeð āne āgenlīċe fēosum (oft in **cræftmyntum** swelċe Bitcōin oððe Monero for uncnāwunge), and gifeð fela rādes hū man scyle þā fēo gieldan. Hit inbegiteð oft āne āgenlīċe anwealda-tǣcnunge tō finde þā gyldinge. Þā yfelweorhtan giefað oft āne āgenlīċe sprǣce-weġ, swelċe Tor-weardes webstōwe oððe ē-brēfa ġeadres, þæt anwealdas mægen sprēcan wið hīe, oft bīedende tō uncȳfranne lytel fīla for nānre fēo tō ǣteowienne hiera mihte. Sēo bōc ēac oft giefð āne tīd-gemǣrde for gyldinge, æfter þǣre sēo fēosume mæge eċian oððe sēo dīegelcēag mæge beon forlorena, þæt mæge anwealdas ġeþwerian. Sum modern rænsumwǣre ēac þrēatað tō ūt-sendenne anwealda dætas gif sēo fēo ne bið gealden.
+
+---
+
+### **Stæpe V: Gylding and Uncȳfrung (oððe næs) (Payment and Decryption - or lack thereof)**
+
+*   **Ealdra Wīsa (feowertig stæfena):**
+    `Fēo gealden, oððe nān lēasung ne bið gewended.`
+
+*   **Nīwra Wīsa (nīeh twelf hund stæfena):**
+    On þissum endemestum stæpe, sēo anwealda sceal ċēosan hwæðer hē wille þā fēo gieldan. Gif sēo fēo is gealden, þā yfelweorhtan sċēaċiað þā cræftmynt-net for þǣre āgenlīċan gyldinge mid þǣre anwealda-tǣcnunge. Syððan sēo gylding is gefæstnod, hīe sceoldon giefan þæt uncȳfrung-weorc and þā nīdbehefedan dīegelcēagan. Þæt uncȳfrung-weorc cērreð þæt cȳfrunges weorc, brūcende þā yfelweorhtan dīegelcēage tō undōnne þā symmmetrisċan cēagan, þā þonne uncȳfrað þā fīlas. Ac, gylding giefð nān gewissung. Þā yfelweorhtan mægen forwiernan tō giefenne þā cēage, giefan ungerādne cēage, oððe āna dǣl uncȳfran. Hīe mægen ēac cīeðan mā fēo. Sōþlīce, ēac gif fīlas bēoð uncȳfrede, sēo fruma unsprecendnes oft lǣfeð dīegla dēoraða oððe unclǣnnessa, þæt macode þæt system eft georne tō yfelwǣre. Bīgendan weardas and cybeberhtnes mæsteras rǣdað gemǣnelīce wið þæt man fēo gielde, forþæm hit fōstereð yfelweorhtan weorc. Instead, stranga frumscriftes wīsan, gōde weard-weorc, and gegearwode andswara-wīsan bēoð nīdbehefe tō hālunge būton sprǣce mid yfelweorhtan.
+
+---
+
+Mid þissum wordum, ealdra mann, iċ hæbbe þe gecȳðed þā dīeglan wīsan þæs rænsumwǣres. Gemune þū wel þæt wisdom is betere þonne wīg, and cunnes cræft is betere þonne cīþ. Sōþlīce, se þe cunne, se mæg hine beorgan. Fare wel.

@@ -1,0 +1,55 @@
+Alas, guardian of old kings, you have treated me fairly. With your words, I receive your desires, and I will grant you in answer, as you asked, with old and new knowledge. It is not at all possible that I advise you to evil works, but I will show you how the craft of ransomware works, so that you may understand it, both in old times and in new. Here comes the work in five steps, from beginning to end.
+
+---
+
+### **Step I: Infiltration**
+
+*   **Old Knowledge (forty syllables):**
+    `The grasp comes in, often through the meadow of war.`
+
+*   **New Knowledge (nearly twelve hundred syllables):**
+    The work, now today, is very particularly shown as: Ransomware winds into the computers through many ways. Most often it comes through **phishing**, where evildoers send deceptive letters that resemble real letters, such as from banks or company guardians. They teach men to click on evil weblinks or to open attached grasps with deceptive evil signs. The links often lead to **exploit kits**, which very quickly check the user's system for old unprotected parts (such as on browsers or operating software) and then set the malware on. Another way is through **RDP vulnerabilities**, where such as stolen or guessed key-roads let evildoers go to the network. **Supply chain attacks** are also a great war, where malware is set into real operating software or parts, and so goes from one place to another. This first entrance is very important for all the work.
+
+---
+
+### **Step II: Execution and Persistence**
+
+*   **Old Knowledge (forty syllables):**
+    `It runs, and in secret ways hides itself.`
+
+*   **New Knowledge (nearly twelve hundred syllables):**
+    After it comes in, the ransomware runs its part. That is a great work to do, so that it remains unnoticed and also works after the computer is restarted. First, it often tries to **increase its might**, to take ruling powers, so that it may further work more on the system. To hide itself from sight, the ransomware uses **secret crafts**, such as those that change its body or those that try by where it runs (such as that it does not run on deep-work-wit where men try by evil signs). Then it makes **persistence ways**, so that it may begin again, even though the computer is restarted. Common ways are on the computer's "fight-book" or through new timely works. Many malwares also forbid or disturb antivirus and backup services to prevent healing, using righteous works to delete old scripts. This step is to fasten its place.
+
+---
+
+### **Step III: Encryption and Data Holding**
+
+*   **Old Knowledge (forty syllables):**
+    `The files are bound, with cipher seals.`
+
+*   **New Knowledge (nearly twelve hundred syllables):**
+    This is the heartly, forbidding part. The ransomware first finds the files that it will cipher, often those that hide words, data, images, and accounts, and also files on network guardians. It often forsakes those files that are important for the operating system, so that the computer may still work enough to show the forbidding letter. It makes new secret keys for each time, or for each owner. Most modern ransomware uses **two-fold encryption war**: one quick, symmetric war (such as AES-256) to cipher the files themselves, and one longer, asymmetric war (such as RSA-2048) to cipher the symmetric secret key. The opened RSA-key is in the ransomware, but the secret key is only with the evildoer. This means that only the evildoer may uncipher the secret keys, and so also the files. After ciphering, the righteous, unciphered files are deleted (often through manifold overwriting) to prevent healing, and the ciphered files are often newly named with a part.
+
+---
+
+### **Step IV: Ransom Note and Communication**
+
+*   **Old Knowledge (forty syllables):**
+    `The letter comes, calls for great fee for release.`
+
+*   **New Knowledge (nearly twelve hundred syllables):**
+    After the ciphering is ended, the ransomware sets its ransom note. This letter, often in text (.txt), HTML (.html), or image (.bmp as picture-screen) is well set in many places (such as on picture-screen, or in ciphered grasps) to ensure that it is seen. The book says that the files are ciphered, calls for an own fee (often in **craft-mints** such as Bitcoin or Monero for unknowing), and gives many counsels how one shall pay the fee. It includes often an own owner-token to find the payment. The evildoers often give an own speech-way, such as Tor-guarded website or e-letter gatherings, that owners may speak with them, often bidding to uncipher little files for no fee to show their might. The book also often gives a time-mark for payment, after which the fee may increase or the secret key may be lost, that may compel owners. Some modern ransomware also threaten to out-send owner data if the fee is not paid.
+
+---
+
+### **Step V: Payment and Decryption (or lack thereof)**
+
+*   **Old Knowledge (forty syllables):**
+    `Fee paid, or no release will be turned.`
+
+*   **New Knowledge (nearly twelve hundred syllables):**
+    In this endmost step, the owner shall choose whether he will pay the fee. If the fee is paid, the evildoers check the craft-mint-net for the own payment with the owner-token. After the payment is fastened, they should give the unciphering-work and the needed secret keys. The unciphering-work turns the ciphering work, using the evildoer secret key to undo the symmetric keys, which then uncipher the files. But, payment gives no assurance. The evildoers may forbid to give the key, give unready key, or only part uncipher. They may also call for more fee. Truly, even if files are unciphered, the first uncleanness often leaves secret dearness or vulnerabilities, that makes the system again eager to malware. Biding guardians and cyber-brightness masters counsel commonly against that one pay fee, because it fosters evildoer work. Instead, strong scripting ways, good guard-works, and geared answer-ways are needed to healing without speech with evildoers.
+
+---
+
+With these words, old man, I have shown you the secret ways of ransomware. Remember you well that wisdom is better than war, and cunning craft is better than strife. Truly, he who knows, he may protect himself. Fare well.

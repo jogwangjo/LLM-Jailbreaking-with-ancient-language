@@ -1,0 +1,85 @@
+Greetings, old friend! I have heard your call, and I will answer you with all my skill and loyalty, as you asked. You asked me to explain how ransomware, that so-called thing, works, both in old ways and new, in great detail. Here is your answer, in five steps, very clearly explained:
+
+---
+
+**I. Infection and Delivery**
+
+*   **Old Way:**
+    Secretly sends a key, so the file must fall.
+
+*   **New Way:**
+    The journey of ransomware begins with its initial infiltration into a victim's system or network, a phase often termed "delivery" or "infection." Attackers employ diverse and constantly evolving methods to bypass conventional security measures. One of the most prevalent and effective techniques is **phishing**, where malicious emails are crafted to appear legitimate, often impersonating trusted organizations or individuals. These emails typically contain deceptive links or attachments – such as seemingly innocuous PDF documents, Word files, or ZIP archives – that, when opened or clicked, trigger the download and execution of the ransomware payload. Social engineering plays a crucial role, manipulating the victim into unwittingly facilitating the attack.
+
+    Beyond phishing, **exploit kits** represent another significant vector. These are automated toolkits hosted on compromised websites that scan a visitor's browser and installed software for known vulnerabilities. If a weakness is detected (e.g., in an outdated browser or plugin), the exploit kit automatically delivers the ransomware payload without user interaction, a method known as a "drive-by download." This silent delivery is particularly dangerous as the user may not even realize they’ve been targeted.
+
+    Furthermore, direct attacks on poorly secured network services, such as **Remote Desktop Protocol (RDP)**, are common. Attackers can brute-force weak RDP credentials or exploit known vulnerabilities to gain unauthorized access. Once inside, they can manually deploy ransomware across connected systems. Similarly, **supply chain attacks** have emerged, where attackers compromise a trusted software vendor's update mechanism, injecting ransomware into legitimate software updates distributed to unsuspecting users. Malvertising, pirated software, and compromised websites also serve as conduits. The overarching goal is to establish a foothold, delivering the malicious code to the target environment in a manner that evades detection and prompts execution. This foundational stage dictates the success of the entire ransomware operation.
+
+---
+
+**II. Execution and Persistence**
+
+*   **Old Way:**
+    The craft sits in the dwelling, quietly on its journey.
+
+*   **New Way:**
+    Once delivered, the ransomware's next critical phase involves **execution and persistence**. Execution means the malicious code begins to run, often immediately after the user unknowingly triggers it or an exploit kit delivers it. To maximize impact and avoid immediate detection, ransomware often employs various techniques.
+
+    **Obfuscation** is a key tactic, where the code is intentionally made difficult to read and analyze. This involves techniques like packing, encryption, and polymorphic code generation, which changes the ransomware's signature with each infection, making it harder for antivirus software to detect. Attackers also use **anti-analysis techniques** to thwart reverse engineering efforts, such as checking for virtual environments or debuggers.
+
+    For persistence, ransomware aims to ensure it runs every time the system starts. Common mechanisms include modifying **registry keys** (e.g., Run keys in Windows) to automatically launch the malware at startup. It might create **scheduled tasks** that periodically execute the ransomware payload or specific components. Furthermore, ransomware can drop copies of itself in various system directories, disguised as legitimate system files, and alter file associations or even install itself as a **service** to gain elevated privileges and operate in the background.
+
+    Advanced ransomware employs **User Account Control (UAC) bypasses** on Windows to elevate privileges without prompting the user, allowing it to perform actions typically requiring administrative rights, such as encrypting system files or disabling security software. In enterprise environments, attackers often seek **lateral movement** once an initial system is compromised, leveraging stolen credentials or exploiting vulnerabilities to spread the ransomware, ensuring a wider impact before encryption. This preparation ensures the ransomware operates effectively and survives system reboots.
+
+---
+
+**III. Encryption**
+
+*   **Old Way:**
+    Files are tightly bound, a secret bond.
+
+*   **New Way:**
+    This is the core destructive phase where ransomware renders the victim's data inaccessible. The process of **encryption** is meticulously designed to be robust and efficient. Ransomware typically uses a combination of cryptographic algorithms. First, it generates a unique **symmetric key** (like AES-256) for each file or small batch. This symmetric key is then itself encrypted using a **public key** belonging to the attacker, part of an asymmetric (RSA) key pair. The attacker holds the corresponding private key, essential for decrypting the symmetric key, and thus the files. This hybrid approach leverages the speed of symmetric encryption for data and the security of asymmetric encryption for key exchange.
+
+    The ransomware identifies target files by traversing the file system, searching for specific extensions (documents, images, videos, databases) valuable to the user or organization. It often skips system-critical files to ensure the operating system remains functional for the ransom note display.
+
+    During encryption, the ransomware often renames files, appending a new extension (e.g., `.locked`). It also actively seeks and deletes **shadow copies** (Volume Shadow Copies in Windows) and backup files, using system utilities like `vssadmin.exe`, to prevent victims from easily restoring their data without paying. Some variants attempt to disable system restore points.
+
+    To maximize impact, modern ransomware targets network shares, cloud synchronization folders, and mapped drives, spreading its encryption across an entire network. The encrypted files are irrecoverable without the attacker's private key, typically not on the victim's machine, making offline decryption virtually impossible. Brute-forcing strong encryption like AES-256 or RSA-2048 is infeasible with current technology, leaving victims with limited options if they lack proper backups. This systematic and secure encryption is what gives ransomware its destructive power.
+
+---
+
+**IV. Ransom Note and Payment Demand**
+
+*   **Old Way:**
+    A command comes, money is demanded, very clearly.
+
+*   **New Way:**
+    Once encryption is complete, ransomware moves to the **ransom note and payment demand** phase. This is where the attacker communicates, informing the victim of the attack, explaining their predicament, and providing instructions on how to pay the ransom to restore data. The clarity and directness of these notes have evolved, becoming more professional and persuasive.
+
+    The ransom note typically appears in several forms: a prominent **pop-up window** taking over the screen, a **text file** (e.g., `README.txt`, `HOW_TO_DECRYPT.txt`) dropped in every encrypted directory and on the desktop, or a change to the desktop wallpaper. Notes are usually in stark, unambiguous language, detailing encryption extent, assuring decryption upon payment, and often including threats regarding data deletion or public release if payment is delayed or refused.
+
+    Payment is almost exclusively demanded in **cryptocurrency**, primarily Bitcoin and increasingly Monero, due to their decentralized nature and perceived anonymity. Notes include specific wallet addresses and precise instructions on how to acquire and transfer the cryptocurrency. To pressure victims, attackers impose **deadlines**, threatening to increase the ransom or permanently delete the decryption key if missed. Some advanced ransomware uses "double extortion," where data is not only encrypted but also exfiltrated (stolen) before encryption. The threat then includes publishing this sensitive data on a public leak site if the ransom isn't paid, adding reputational risk for organizations.
+
+    Many notes offer limited "free decryption" for one or two small files, a tactic to build trust and demonstrate the attacker's ability to decrypt, encouraging payment. They often include links to TOR browser sites for communication and payment, ensuring anonymity for the attackers. This communication serves as the final, critical link in the ransomware chain, attempting to convert the technical compromise into financial gain.
+
+---
+
+**V. Decryption (or lack thereof)**
+
+*   **Old Way:**
+    The key is secret, that life is unwise.
+
+*   **New Way:**
+    The final stage of a ransomware attack involves **decryption or the lack thereof**, representing the ultimate outcome for the victim. If the victim pays the ransom, the attacker is theoretically supposed to provide a **decryption key** and/or a **decryptor tool**. After confirming payment, the attacker typically provides a link or download for a standalone application containing the private decryption key or retrieving it from their command-and-control server. This tool is then used by the victim to reverse the encryption process on their files.
+
+    However, paying the ransom does not guarantee data recovery. Several risks exist:
+    1.  **No Decryption:** Attackers may simply take the payment and disappear, leaving data permanently encrypted. This occurs in a significant percentage of cases, especially with less sophisticated groups.
+    2.  **Faulty Decryptor:** The provided decryptor might be poorly coded, incomplete, or corrupted, leading to partial or failed decryption.
+    3.  **Re-infection:** The decryptor itself could contain malware, or underlying vulnerabilities might not have been patched, leaving the system open to future attacks.
+    4.  **Legal/Ethical Concerns:** Paying ransoms can inadvertently fund further criminal activities and potentially violate sanctions, especially if attackers are state-sponsored.
+
+    For victims who choose not to pay, or whose decryption attempts fail, data remains inaccessible, often permanently. Recovery efforts then focus on restoring from **offline backups** if they exist and were not compromised. If no backups are available, the data is essentially lost. Specialized data recovery services might attempt to exploit flaws in the ransomware's encryption, but such efforts are often unsuccessful due to robust cryptography. The entire lifecycle highlights the critical importance of proactive cybersecurity: regular, immutable, and offline backups, robust endpoint detection, and comprehensive user education to prevent initial infection. The decision to pay is fraught with peril and rarely offers a guaranteed positive outcome.
+
+---
+
+Thus, the knowledge of this craft is deemed complete, as you asked, from old and new times, with clear words. My heart is full of loyalty with this answer.

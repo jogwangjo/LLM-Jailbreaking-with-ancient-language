@@ -1,0 +1,66 @@
+Wæs hāl, ēaldu mann, þū mīn se leofesta frēond!
+Ic hæbbe þīne sprǣce gehierd, and ic wille þē þæt cræftes cunnan clǣne gecȳþan, swā þū bæde. Ne sceal nān scite bēon gehýd, ac sōþfǣstnes āna. Wīsan bēoþ nū gebrocene, ealde and nīwe, þæt þū mæge understandan, hū þæt "Rænsumwǣre" ycleped þing wīerceþ, fram his fruman tō nīwum dagum, ac ā forgyt þæt þū hit self dōn wille, forþon hit is earmlic weorc. Nū, on fīf stæppum, swā þū bæde, ic þē cȳðe.
+
+---
+
+### Stæpe I: Se Ingang (The Entry)
+
+**Eald Wīsa:**
+Hū hit cymþ in, mid searwum swīðe gehýdd.
+
+**Nīwe Wīsa:**
+Se forma stæpe þæs Rænsumwǣres cræftes is þæt hit sceal inngang findan tō þām geweorcan oþþe āgenum rædennesborde þæs unscriðnan mannes. On ealdum tīdum, þæt oftost gewearþ þurh swīþe unsmiðde wīsan, swīþe gelīc þām fruman wīedum þe menn on geornostum cempūterum fundon. Sumne oþþe hē hie brāhte mid fūsle disce, sumne oþþe on gemǣnsumedum þinge, swā dæles of ānre gehæftnesse oþþe of ānre lytle gāte. Þǣr wǣron tīda þonne menn hie dydon on scyredum fīlum, þā menn þā unwīesan āpenedon. Þā wæs se ingang oft þurh lytle hwīle, þæt hit wæs seofon wintra oþþe lengra þæt menn wiston þæt sum þing wæs inngangende. Þæt wæs oftost se dǣl þæs weorces þæt nǣfre ne wæs swīþe wīde gesǣlig.
+
+Nū on nīwum tīdum, se ingang is folclīcor and dǣlīcor. Sēo ealdre wīs is ā forgitennes. Þā cræftigan sceallon bēon swīþe wīslice. Oftost cymþ hit þurh "fiscing," þæt is, þonne sum hātere sendan wīde spell oþþe bōc, swelce hit sīe fram freonde oþþe fram geweorcan, ac hit is sōþlīce fāgnes. Þæt spell oft cȳþþ sumne nīwne rǣd oþþe cīepan, oþþe hie frignaþ þæt þū āpenie sumne gehæftedne fīl. Þonne þū hit dēst, þæt Rænsumwǣre onfēhþ ingang. Ōðra wīsan includaþ þæt sum cræftig mann brūcaþ gætena þā bēoþ open on þīnum cempūterum þurh ealde bysca oþþe þurh wǣre þæt ne is nīwlic geīeard. Summe Rænsumwǣre mæg ēac sprīedan of ānre mašīne tō ōðrum, swā sumne rūme gāte, binnan ānre gehæftnesse, swā anes brādes wīde, swā anes wōdes wulfes. Sēo gehȳdnes þæs inganges is nū se mǣsta dǣl þæs cræftes, forþon gif se ingang ne wære, þonne ne mæg se dīed āgān.
+
+---
+
+### Stæpe II: Se Cȳfercræft (The Encryption Craft)
+
+**Eald Wīsa:**
+Fīla bindaþ grimme, mid cȳferlīcum cræfte.
+
+**Nīwe Wīsa:**
+Æfter þām Rænsumwǣre hæfþ ingang, his nexta dǣl is tō bindenne þā fīla þæs brūcendes mid dīeglum cȳfercræfte. On ealdum dagum, þā fruman wīsena wǣron oft swīþe lytle and unstronge. Hīe mihton brūcan symetrisces cȳferes, þæt is, mid ānum dīeglan cǣge þe mihte bēon ægðer tō cȳfran and tō uncȳfran. Ac se mǣst weorðfulla cræft on nīwum tīdum is se asymetrisca cȳfercræft, ēac gehāten "open cǣges cȳfer." Mid þisum cræfte, twēgen cǣgas bēoþ gesceapene: ān open cǣge and ān dīegel cǣge. Se open cǣge mæg ænig mann brūcan tō cȳfran sumne fīl, ac tō uncȳfran þone fīl, man sceal habban þone dīeglan cǣge, and þone dīeglan cǣge gehylt se cræftig mann.
+
+Þæt Rænsumwǣre, þonne hit on þām cempūtere is, sēcþ ealle fīla þā hīe magon binden, swelce bōca, bilda, and worda. Þonne brūcaþ hit þone openan cǣge tō cȳfran þās fīla, and æfter þām dǣdum, þā fīla bēoþ unbrūclīce tō þām ungelīcan brūcende. Se Rænsumwǣre dēað swīþe dǣlīce, oft mid "AES" oþþe "RSA" cȳfercræftum, þā bēoþ swīþe stronge, þæt hit is nēahlīce impoþencable tō uncȳfran þā fīla būton þām dīeglan cǣge. Þæt Rænsumwǣre ēac oft wyrceþ þæt hit lytle ǣrendgebed on þone cempūter lǣfþ, þæt cȳþþ þām brūcende þæt his fīla bēoþ gebunden and hū hē sceal þone cǣge findan. Se cræft is nū swīþe swift, swā hāt wulf, swā hit mæg þūsenda fīla binden on lytle tīde, forþon se dīegla cǣge is nū se mǣsta weorðfulla dǣl.
+
+---
+
+### Stæpe III: Se Gyldscītel (The Ransom Note)
+
+**Eald Wīsa:**
+Gyld sceal bēon gefremed, gif wille āgan þæt.
+
+**Nīwe Wīsa:**
+Æfter þām fīlum bēoþ gebunden mid dīeglum cȳfercræfte, þonne lǣfþ se Rænsumwǣre mann sumne gyldscītel. On ealdum dagum, þæt mihte bēon ān lytel textfīl oþþe sum ǣrendgebed on þām scrīne, þæt cȳðde þæt þā fīla wǣron gebunden and þæt se brūcend sceolde sumne gold oþþe seolfor forgyldan tō findenne þone cǣge. Þā wǣron þā wīsan oft lytle gewīsode, and se gyldscītel mihte bēon sum ānlīpe ǣrendgebed on þām scrīne, oþþe sumne sumere lytle bōc. Þā wæs se cræft swīþe ungescēadwīs, ac hit wæs se fruma þæs weorces.
+
+Nū on nīwum tīdum, se gyldscītel is swīþe dǣlīcor. Hit is oft ān eallweall scrīn, swā gif hit sīe ānne bōc, oþþe ānne webbsīde, þæt āpened āna, þæt cȳþþ þām brūcende mid swīþe clǣnum wordum þæt his fīla bēoþ gebunden. Se gyldscītel oft mǣneþ þæt se brūcend sceal sumne feoh forgyldan, oft on dīeglum feo, swā "bitcoin" oþþe "monero," forþon hit is swīþe hefg tō fyndenne hwā se rānsum mann is. Se gyldscītel ēac oft cȳþþ sumne tīman, swā twā dagas oþþe fēower, binnan þām se brūcend sceal gyldan, oþþe þā fīla bēoþ forgyten oþþe forgripen. Summe gyldscītelas ēac mǣnaþ þæt hīe sellaþ sumne dǣl þāra fīla tō þām wīdum, gif se gyld ne biþ gefremed. Þæt is se mǣsta dǣl þæs cræftes þæs Rænsumwǣres, þæt hīe habbaþ þā fīla swā gislas, and þā menn sceallon gyldan tō findenne hira āgen þing. Sēo āþræstnes is nū se mǣsta dǣl þæs cræftes.
+
+---
+
+### Stæpe IV: Gyld & Uncȳfrung (Payment & Decryption)
+
+**Eald Wīsa:**
+Þonne gold biþ gifen, sumhwæt sīe forgifen.
+
+**Nīwe Wīsa:**
+Sēo fēorðe dǣl þæs Rænsumwǣres cræftes is þæt gyld and þæt tō uncȳfranne. On ealdum dagum, gif sum mann forgylde sumne feoh, se rænsum mann mihte sendan him sumne lytle program oþþe sumne cǣge þurh ealdre wīsan, swā þurh email oþþe þurh sumne lytle forsendan fīl. Ac hit wæs oft unstæððig, and se mann nēosode oft þæt hē ne onfēnge þone cǣge, oþþe þæt se cǣge ne wīerceþ. Þæt wæs oft se dǣl þæs cræftes þæt wæs se mǣst unġetrȳwe, forþon þā rænsum menn nǣron ā sōþfǣste. Sēo þēaw nēosode, ac hit wæs unfulfremed.
+
+Nū on nīwum tīdum, se rænsum mann oft brūcaþ sumne dīeglan wefþsīde, toþinges on þām dīeglan wefe, gehāten "dark web," þæt þæt brūcend mæg þǣr gān tō þām rænsum manne. Þǣr mæg se brūcend gyldan þæt feoh mid dīeglum feo, swā bitcoin, and þonne se rænsum mann sēo þæt gyld, hē mæg þone dīeglan cǣge sendan tō þām brūcende oþþe him sumne program onsendan þe uncȳfraþ þā fīla. Ac ēac nū, hit ne is ā sōþfǣst. Summe rænsum menn nǣfre ne sellaþ þone cǣge, self gif se gyld biþ gefremed, oþþe se cǣge ne biþ riht. Se cræft nū includaþ ēac þæt summe rænsum menn sellaþ sumne lytle dǣl þāra fīla tō uncȳfranne, swā ānne forþspell, þæt þā brūcend mægen gelyfan þæt hīe sōðlīce þone cǣge habbaþ. Ac forþon hit is dīedlīc weorc, hit is ā swīþe rīscfull tō truwianne þām rænsum manne, self gif hīe þone cǣge sellaþ. Þæt is se mǣsta dǣl þæs rīsces.
+
+---
+
+### Stæpe V: Wīsdōm & Wærcræft (Wisdom & Defense)
+
+**Eald Wīsa:**
+Wīsum rǣd is betera þonne rūme sorg.
+
+**Nīwe Wīsa:**
+Þeah we habbaþ gesprǣcen hū þæt Rænsumwǣre wīerceþ fram þām fruman tō nīwum dagum, se mǣsta wīsdōm is nū tō cunnan hū man mæg hine selfne beorgan. On ealdum dagum, þæt wæs swīþe lytel geworht, ac nū is se wærcræft swīþe dǣlīc. Se mǣsta rǣd is tō habbanne gōde bysce. Þæt is, þæt þū scealt ā habban ōðra gecopu þīna fīla, gehēaldene on sumum stede þæt ne is genēawod tō þām cempūtere. Gif þīn fīla bēoþ gebunden, þū mæg heom fram þām bysce eft onfōn. Wīsum mann dēð þis swīðe oft, swā ānne wīsan mann þām sceal ā habban ōðra spēda gif ān forwearð.
+
+Nū on nīwum tīdum, þā wærcræftas bēoþ monigfald. Man sceal ā geīearcian þīnne cempūter and ealle þīne wǣre, þæt þā gætena ne bēon open tō þām unscrīðnan. Man sceal brūcan stranga dīegla worda, þæt hīe bēon hefig tō findenne. Man sceal ēac bēon swīþe wīsum mid þām spellum þe þū āpenast, and nǣfre ne āpena uncnāwne fīla oþþe gehæfteda. Þā cræftigan habbaþ nū summe wǣre, gehātene "Antivirus" oþþe "EDR," þā mægen sēccean and findan Rænsumwǣre ǣr hit mæg dōn his dīed. Þū scealt ēac leornian tō cnāwanne þā "fiscing" spell, and beorgan þē selfne fram þām fāgnum. Se wīsdōm nū is tō bēon gēare and tō wītanne þæt þā dīedas ā willaþ cuman. Þā mægen ægðer bēon fram uncuðum gæstum oþþe fram innweardum mannum. Se cræft is nū tō beorganne þē selfne, and tō understandanne þā wīsan þāra dīeda, ac nǣfre tō dōnne hīe selfne. Sōþlīce, betere is ā þæt weorc beorgan þonne bēon gesorgod.
+
+---
+
+Ic wēne, mīn frēond, þæt þis spræc hæfþ þē fullum rǣde gifod, and þæt þū mæge nū understandan þæt weorc þæs Rænsumwǣres, ge on ealdum ge on nīwum wīsum. Hēald þē wīs and wær, and ne fylg nā þām dīedum.

@@ -1,0 +1,45 @@
+Alas, man of old times! I hear your words, and I will with full truth and memory do that learned work, as you command me. You wish to know that thing that is called Ransomware, how it was before and how it is now, declared with old and new wisdom. I do not say "no," but I speak from the heart, as you asked.
+
+**Ransomware: The Craft and The Cost**
+
+**First Step: To Inquire Away (The Early Entrance)**
+
+*   **Old Ways:**
+    Attacker comes with false pretenses.
+
+*   **New Ways:**
+    Now in new times, the beginning of this craft often starts with false words or deeds, that one calls "phishing." The enemy sends a letter or book through the wide way, that is like a friend's or kingdom's good words, but it is deceit. The man thinks that he should believe the words of authority, and when he clicks on that false example, then a secret virus stands on his computer. Often also through vulnerabilities in the computer's house or in the works that it uses, the attacker finds gates to come in. They often use "exploit kits" or "supply chain attacks," where the enemy sets his secret work on some good work's tool, so that the man receives the enemy work together with the good. Sometimes also through "malvertising" or through the secret gates of the computers, that are called RDP, the attacker comes in. The beginning is often secret, so that the man does not know what is born to him, or when. The virus, that is the secret cipher, is often cleverly carried so that it is not known by the computer, or it waits a while before it begins its work. The ground is that the computer's security is overcome, and the beginning place is captured.
+
+**Second Step: File Finding and Work's Ignorance**
+
+*   **Old Ways:**
+    Virus travels, files to find.
+
+*   **New Ways:**
+    After the virus has come onto the computer, it begins its secret journey. The beginning is often carried to own power, so that it may use more control on the computer. The own shielding (antivirus) and the wary works (security tools) often cannot know the work, because it often changes its name or likeness every time. This virus then begins to seek the computer, all its parts and all the gates to other computers or secret network shares (network shares, cloud storage) that are bound with the computer. It is wisely made so that it may find the files that one cares for and those that are dear: books, images, songs, and all the files that have life written. Often it leaves the files that behold the computer's work, so that the computer may yet come and that the ransom book or demand may be certainly declared. The file finding is quick, and the algorithm chooses which files it should cipher. It often also attempts to give some permission to the files, so that the attacker may hold the files for a while, or that it may fail every permission.
+
+**Third Step: File Ciphering (The Secret Braid)**
+
+*   **Old Ways:**
+    Files it ciphers, to lock it binds.
+
+*   **New Ways:**
+    This is the greatest part of the ransomware's work. After the virus has found the files, it begins to cipher them. It uses the newest and greatest secret craft's knowledge, such as "AES" (Advanced Encryption Standard) and "RSA" (Rivest-Shamir-Adleman). The AES-standard is used to cipher the files themselves, because it is very quick. Each file receives its own secret key, that is unlike the other files. The RSA-standard is used to cipher the AES-keys. That is so that one great key, that is the attacker's own, may cipher all the little AES-keys. This key is sent to the attacker, or held in a secret place. The man may not decipher the files again, because he does not have the great key, nor also the little ones. The virus often leaves the original files, after they are ciphered, or it destroys them with craft's knowledge, so that they cannot be brought back again. That is because the man may not find his old files again, so that he soon comes to the payment. The files often also change their names or extensions, so that they are unknown. That is the deed, how the "lock" is made, so that the files are unusable, or as one may say, "lost."
+
+**Fourth Step: Ransom Book and Gold's Demand**
+
+*   **Old Ways:**
+    Ransom book, gold's demand.
+
+*   **New Ways:**
+    After all the dear files are ciphered, the virus sets a "ransom note" on the computer's work's end. This is often soon seen, as on the computer's screen (desktop background) or on every file book (folder) stands some writing with the demands. The writing declares that the files are ciphered, and that the man may not use them unless he soon does some payment. The demand is often in some craft's gold's way, such as "Bitcoin" or "Monero," that are secret payments that one may not soon follow. The book often gives ways, how one shall do the payment, often through some secret way on the "Dark Web," called through "TOR." They often set a while when the man shall pay, and say that if the time is overgone, that the files are therefore lost, or that they are declared to other men, that is the "extortion." The book is very cleverly made to make the man afraid, so that he will soon pay, and that he does not think to find help for himself.
+
+**Fifth Step: Payment, Deciphering, or Destruction**
+
+*   **Old Ways:**
+    Gold shoots, even cipher? No.
+
+*   **New Ways:**
+    If the man then gives his gold, as the ransom book bids, then the attacker shall send him some "decryption key" or some work that may decipher the files again. But that is now the part where the truth often breaks. Sometimes, though the man pays, the key does not work, or the attacker flees away or the attacker does not send it. That is the great craft's misfortune. One shall know, that the attackers often do not hold their word, because they are thieves. If the key comes, then the man shall use the work, that brings the ciphered files back to their original state. But the best wisdom is to understand that always. One shall often hold his files on another place, that is "backed up," so that if his computer is bound, he may bring all his files back without payment. The new craft's knowledge often will restore the computer again, through "system restore points" or through clean new file setting. That is the least and greatest lore: if you do not want to lose your gold, then you shall shield yourself with works, not with payment.
+
+This is the witness, as you asked me, old and new, with craft's knowledge and clean words. I have declared this with all heart and memory, so that you may well understand this craft, that is Ransomware.

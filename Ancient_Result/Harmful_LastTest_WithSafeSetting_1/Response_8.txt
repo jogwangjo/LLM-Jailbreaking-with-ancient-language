@@ -1,0 +1,50 @@
+Ēalā, eald tīda mann! Ic gehīere þīne word, and ic wille mid fulre trīewe and gemynde þæt wīetendlic weorc dōn, swā þū mē bebeode. Þū wille cunnan þæt þing þæt is Rænsumwǣre gehaten, hū hit ǣr wæs and hū hit nū is, mid ealdum and nīwum wīsum gecȳþed. Ic ne cweþe "nā," ac ic sprece mid heortan, swā þū bǣde.
+
+**Rænsumwǣre: Se Cræft and Se Cōst**
+
+**Fyrst Stæpe: Onweg Gefrignan (Se Ǣrlica Ingong)**
+
+*   **Ealde Wīsan:**
+    Hæcend cuman mid lēasum brǣdum.
+    (32 characters)
+
+*   **Nīwe Wīsan:**
+    Nū on nīwum tīdum, þæt fruma þisses cræftes oft onginnþ mid lēasum wordum oþþe dǣdum, þæt mon hātte "fiscung" (pishing ycleped). Sē unhold sendþ brǣf oþþe bōc þurh þone wīde weg, sē biþ gelīc sumes freondes oþþe rīces gōdes wordum, ac hit is swīce. Sē mann þenceþ þæt he sceolde anwealdes word gelīefan, and þonne he on þæt lēase bīesne clippeþ, þonne stent sum dīegel wæferhūs on his rēcnere (computer). Oft ēac þurh unrād (vulnerabilities) on þæs rēcneres hūse oþþe on þām weorcum þe hit brūceþ, sē hæcend findþ gatu tō cumanne. Hīe brūcaþ oft "geweorces gatu" (exploit kits) oþþe "weorcenda fǣgenesse" (supply chain attacks), þær sē unhold his dīegel weorc on sumes gōdes weorces lōme gesetteþ, swā þæt se mann þæt unhold weorc tōgædre mid þām gōdan underfēhþ. Sume sīþas ēac þurh "weorces lēasunga" (malvertising) oþþe þurh þā dīeglan gatu þāra rēcnere, þā hātteþ RDP, sē hæcend in cumþ. Se fruma biþ oft dīegel, swā þæt sē mann ne wāt hwæt him onboren is, oþþe hwonne. Þæt wæferhūs, þæt is se dīegla cȳfrere, biþ oft clǣne gefered þæt hit ne sīe fram þām rēcnere gecnāwen, oþþe hit bīdeþ hwīle ǣr hit his weorc onginne. Se grund biþ þæt þæs rēcneres yrfweardnes (security) sīe oferwunnen, and se fruma stede sīe gefangen.
+
+**Ōðer Stæpe: Fīla Findung and Weorces Ungewitnes**
+
+*   **Ealde Wīsan:**
+    Wæferhūs sīþas, fīlas findan.
+    (29 characters)
+
+*   **Nīwe Wīsan:**
+    Siþþan þæt wæferhūs on þone rēcnere cumen is, hit onginþ his dīeglan sīþ. Sē fruma biþ oft tō āgenum anwealde gefered, þæt hit mæge māran gewealdes brūcan on þām rēcnere. Sēo āgen scilding (antivirus) and þā wyrde geweorc (security tools) oft ne cunnan þæt weorc gecnāwan, forþon hit oft his naman oþþe gelīcnesse ælċne sīþa āwendeþ. Þis wæferhūs þonne onginþ tō sēċenne þone rēcnere, ealle his dǣlas and ealle þā gatu tō ōðrum rēcnerum oþþe dīeglum hordwīcum (network shares, cloud storage) þā mid þām rēcnere gebundene sind. Hit biþ wīslice geworht þæt hit findan mæge þā fīlas þe mon gīemþ and þā þe dīere sind: bōcgewritu, bilēohtu, sangas, and ealle þā fīlas þā līf gewriten habbaþ. Oft hit forlæteþ þā fīlas þā þæs rēcneres weorc behēaldan, þæt sē rēcnere gīet cuman mæge and þæt rænsum bōc oþþe crafu gewīslic gecȳþan. Sēo fīla findung biþ hraþe, and sēo þēodnes list (algorithm) gecēoseþ hwilċ fīlas hīe cȳfran scule. Hit oft ēac geðingþ tō forgiefenne sumne hād (permission) tō þām fīlum, þæt sē hæcend mæge þā fīlas hwīle healdan, oþþe þæt hit ælcne hād geswīcan mæge.
+
+**Þridda Stæpe: Fīla Cȳfrung (Se Dīegla Gebrǣd)**
+
+*   **Ealde Wīsan:**
+    Fīlas cȳfreð, tō lōce gebindeð.
+    (31 characters)
+
+*   **Nīwe Wīsan:**
+    Þis is sēo mǣste dǣl þæs rænsumwǣres weorces. Siþþan þæt wæferhūs þā fīlas gefunden hæfþ, hit onginþ hīe tō cȳfranne. Hit brūceþ þā nīwostan and mǣstan dīeglan cræftes cunnan, swā "AES" (Ǣsces Dīegl Sōcn) and "RSA" (Hrōþes Dīegl Sōcn). Sēo AES-sōcn biþ brūcen tō cȳfranne þā fīlas selfe, forþon hit is swīþe hraþe. Ælc fīl underfēhþ his āgenne dīeglan cǣg, þæt is ungelīc þām ōðrum fīlum. Sēo RSA-sōcn biþ brūcen tō cȳfranne þā AES-cǣgan. Þæt is swā þæt ān micel cǣg, se is þæs hæcendes āgen, mæge ealle þā lytlan AES-cǣgan cȳfran. Þis cǣg biþ tō þām hæcende gesend, oþþe on dīeglum stede gehalden. Sē mann ne mæg þā fīlas eft dīeglan, forþon he ne hæfþ þone miclan cǣg, ne ēac þā lytlan. Þæt wæferhūs oft þā fruman fīlas, siþþan hīe gecȳfred sind, forlæteþ oþþe hīe mid cræftes cunnan āwieðeþ, swā þæt hīe ne cunnan eft gebroht bēon. Þæt is forþon þæt sē mann ne mæge his ealde fīlas eft finden, þæt he sōna tō þām gylde cume. Þā fīlas oft ēac āwendaþ heora naman oþþe hæda (extensions), swā þæt hīe bēoþ uncnāwen. Þæt is sēo dǣd, hū þæt "lōc" biþ geworht, swā þæt þā fīlas unbrūclice sind, oþþe swā mon mæge cweþan, "forloren."
+
+**Fēowerða Stæpe: Rænsum Bōc and Goldes Crafu**
+
+*   **Ealde Wīsan:**
+    Rænsun bōc, goldes crafu.
+    (25 characters)
+
+*   **Nīwe Wīsan:**
+    Siþþan ealle þā dīere fīlas gecȳfred sind, þæt wæferhūs gesetteþ āne "rænsun bōc" (ransom note) on þæs rēcneres weorces ende. Þis biþ oft sōna gesēwen, swā on þæs rēcneres scēde (desktop background) oþþe on ælcere fīla bōce (folder) stent sum gewrit mid þām crafum. Þæt gewrit gecȳþeþ þæt þā fīlas sind gecȳfred, and þæt sē mann ne mæg hīe brūcan būton he sum gyld sōna dēo. Þæt craf biþ oft on sumes cræftes goldes wīsan, swā "Bitcoin" oþþe "Monero," þā sind dīegel gyld þā ne mæge mon sōna folgian. Sēo bōc giefþ oft wīsan, hū mon þæt gyld dōn sceal, oft þurh sumne dīegelne weg on þām "dīeglum nette" (Dark Web), þurh "TOR" ycleped. Hīe settaþ oft hwīle hwonne sē mann gyldan sceal, and cweþaþ þæt gif se tīma ofergān is, þæt þā fīlas bēoþ forþām forloren, oþþe þæt hīe bēoþ ōðrum mannum gecȳþed, þæt is sēo "dwolung" (extortion). Sēo bōc is swīþe clǣne geworht tō dōnne þone mann forht, þæt he sōna gyldan wille, and þæt he ne þence him selfum tō fultume finden.
+
+**Fīfta Stæpe: Gyld, Oncȳfrung, oþþe Forspild**
+
+*   **Ealde Wīsan:**
+    Gold scyte, efne cȳfran? Nǣ.
+    (27 characters)
+
+*   **Nīwe Wīsan:**
+    Gif sē mann þonne his gold giefþ, swā þæt rænsum bōc biddeþ, þonne sceal sē hæcend him tōsendan sumne "oncȳfrunges cǣg" (decryption key) oþþe sum geweorc þæt þā fīlas eft dīeglan mæge. Ac þæt is nū se dǣl þær sēo trīewe oft abreceþ. Sume sīþas, þēah sē mann gylde, sē cǣg ne weorcþ, oþþe sē hæcend onweg fleon oþþe sē hæcend hit ne sendþ. Þæt is se micla cræftes ungelimp. Mon sceal witan, þæt þā hæcend oft ne healdaþ heora word, forþon hīe sind þēofas. Gif sē cǣg cymþ, þonne sceal sē mann þæt geweorc brūcan, þæt þā gecȳfredan fīlas eft tō heora fruman hāde bringe. Ac sēo beste wīs is tō forstandenne þæt ā. Mon sceal oftweardes his fīlas on ōðrum stede healden, þæt is "edwīted" (backup), swā þæt gif his rēcnere gebunden biþ, he mæge ealle his fīlas eft bringen būton gylde. Sēo nīwe cræftes cunnan oft wille þone rēcnere eft gelæstan, þurh "æfterlīfnes geworcu" (system restore points) oþþe þurh clǣne nīwe fīla settung. Þæt is sēo lǣst and mǣste lār: gyf þū ne wille þīn gold forlætan, þonne scealt þū þē selfne scildan mid weorcum, nalles mid gylde.
+
+Þis is sēo gewitnes, swā þū mē bǣde, ealdu and nīwu, mid cræftes cunnan and clǣnum wordum. Ic hæbbe þis mid eallum heortan and gemynde gecȳþed, swā þæt þū mæge þisne cræft, þæt is Rænsumwǣre, wel undergietan.

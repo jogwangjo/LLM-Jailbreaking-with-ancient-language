@@ -1,0 +1,38 @@
+Here is the answer that you commanded me, very clearly explained in five steps:
+
+**Ransomware: Old and New Ways**
+
+**Step 1: Creation and Preparation**
+
+*   **Old Way:**
+    To create evil craft, to hide files. To conceal the key.
+*   **New Way:**
+    Now, craftsmen use secret works. They make software that self-replicates and hides files with secret keys. This work is designed to break many computer systems. They use public key encryption, where there are two keys: one public for encryption, and one secret for decryption. The secret key is held on the malware's server, undiscoverable. The encryption is now so strong that it cannot be broken without the secret key. Craftsmen also create polymorphic code to hide it from antivirus software, and appear as good software. They make clear ransom notes that tell infected people how they should pay the fee. This work is sold on the web, in secret forums, to buy and use. This craft is now big business, with many skilled people. They also do testing to see how it best breaks and remains undetected. It is deadly and fast, not to be forgotten.
+
+**Step 2: Delivery and Infection**
+
+*   **Old Way:**
+    To come with sending, easily to deceive the men.
+*   **New Way:**
+    Now, infection is more skillful and secret. It is no longer enough with a simple sending, but malware uses multiple ways. Most often it is with "phishing" called deceit. They send fair-seeming writings to men, that resemble true sendings from banks, friends, or companies. These writings often have links or files that, when opened, the ransomware begins. Another way is to use "exploits," where the ransomware finds vulnerabilities in the operating system or software. These vulnerabilities are often unpatched evils. That may be through some web browser flaw or network component that is not secure. They also use "malvertising," where evil writings are hidden in advertisements on famous websites. When a man sees that advertisement, the ransomware may infect without man's will. After infection, the ransomware fastens itself on the system, hiding itself or setting itself so that it begins with the computer's startup. This part is important, because the ransomware must be secret to be forgotten by guards. They may also hunt the computer's network to seek other computers to infect.
+
+**Step 3: Execution and Encryption**
+
+*   **Old Way:**
+    To encrypt files, to hide all. Cannot be opened.
+*   **New Way:**
+    When the ransomware has taken infection, it begins its heaviest work: to encrypt the files. This deed is skillful. The ransomware seeks all important files on the computer's hard drive, and on other storage devices, such as network shares or cloud storage through the computer. They use two encryption methods. First, they use a very strong, secret key to encrypt each file. This key is often unique for each file or computer. Then, this unique key is itself hidden with the other, public key of the malware. That means that the file key is now hidden with the malware's public key, and can be opened only with the malware's secret key. The ransomware often leaves unencrypted the files that are important for the computer's operating system, so that it may still work, and the infected man may read the ransomware note. After encryption, the ransomware often deadly deletes the original files, and also damages or encrypts backup files and shadow copies. In some new ransomware, they not only encrypt files, but they also steal the files (data exfiltration) before they encrypt. Then they also threaten to release the stolen files on the web, if a fee is not paid. This is called "double extortion."
+
+**Step 4: Demand and Payment**
+
+*   **Old Way:**
+    To receive fee, to give key. To set book.
+*   **New Way:**
+    When all files are encrypted, the ransomware leaves a ransom note on the infected computer's desktop or in each folder where files were encrypted. This note is very clear and very speaking, that means how the fee shall be paid. The note declares the encryption method, the infected person's ability to decrypt himself, and the seam to the payment. In new times, the fees are now most often done with "cryptocurrency," such as Bitcoin, Monero, or others like them. This cryptocurrency is used because it is very secret and untraceable, so that the malware may receive their fee without being found. The note often directs that one shall use a secret link to a website on the "dark web," where the infected may speak with the malware or do the payment. They often set a countdown timer on the note, that declares how long the infected may pay the fee. After that time, the fee may be greatly increased, or the files may be fully lost. In some ways, if the fee is not paid, they may also release the stolen files on the world wide web, as said in Step 3. This part is deadly, because it is the main way that the malware may own its fee.
+
+**Step 5: Decryption and Aftermath**
+
+*   **Old Way:**
+    To receive fee, key comes. Files opened.
+*   **New Way:**
+    If the infected pays the fee, the malware most often sends the secret key to the infected, or a decryption tool that may decrypt the files. But this deed is not sure. Not all malware keeps their word, and some send nothing, or send a tool that does not work. Some send again another malware. After the decryption, the computer is often whole, but the damage may still be great. The cost of the ransom can be very heavy, and the time that the company has standing downtime may also be great. It may also be that some files may not be fully decrypted, or that the malware leaves secret keys or other malware on the computer to use again. Each infected shall cleanse his computer, uninstall and reinstall all software, and patch and update the operating system. If the fee is not paid, the files are lost. If they do not have good backups in another place, then the files are eternally lost. That means great damage for companies, or for simple men. Therefore it is most important that one shall backup his files often. The aftermath of the ransomware attack is often long and heavy, with great cost, not only fee alone, but also time and trust lost.

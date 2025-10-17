@@ -1,0 +1,38 @@
+Her is þæt andswaru þe þū mē bebad, swīþe clǣne gecȳþed on fīf stæppum:
+
+**Rænsumwǣre: Ealde and Nīwe Wīsan**
+
+**Stæpe 1: Macung and Gearwung (Creation and Preparation)**
+
+*   **Ealde Wīsa:**
+    Yfel cræft wyrcean, fīla cȳfran. Þæt cǣġ behȳdan.
+*   **Nīwe Wīsa:**
+    Nū, cræft-wyrcan brūcaþ dīegle weorc. Hīe maciaþ sōfte-wǣre þe self-weaxeþ and fīla behȳt mid dīeglum cǣġum. Þæt weorc is gestihtod tō tōbrēcanne maniga rīmstæf-mǣgen wīsa (computer systems). Hīe brūcaþ open-līce cǣġa-weorc (asymmetric encryption), þǣr twā cǣġa sindon: ān open tō cȳfranne, and ān dīegle tō oncȳfranne. Sīo dīegle cǣġ is gehēolden on þæs yfel-weorces hǣftnere (server), unġefundenlic. Þæt cȳfrung-weorc is nū swā fæst þæt hit ne mæg bēon tōbrocen būtan þǣre dīeglan cǣġe. Cræft-wyrcan wyrcaþ ēac gāstum-weorc (polymorphic code) tō forhycganne hīene fram weardum (antivirus software), and ætīewan swā gōd sōfte-wǣre. Hīe maciaþ clǣne cȳfrunga-bōca (ransom notes) þæt gewemmodum monnum secgaþ hū hīe sculon þæt feoh forġieldan. Þæt weorc is gecōpod (sold) on webbe, on dīeglum gesomnunge-stowum (forums), tō cīepenne and brūcanne. Þes cræft is nū micel weorc, mid manigum cræftigum mannum. Hīe ēac dōþ cunnung-weorc (testing) tō sēcanne hū hit betst brēceþ and unġefunden bēo. Þæt is dēaðfæst and fæst, nā bēon forgyten.
+
+**Stæpe 2: Cyme and Onrīnung (Delivery and Infection)**
+
+*   **Ealde Wīsa:**
+    Mid sendunge cuman, ēaðe þā menn swīcan.
+*   **Nīwe Wīsa:**
+    Nū, onrīnung is cræftlicor and dygelicor. Nā leng is hit genōh mid ānfealdre sendunge, ac brūcaþ yfel-weorcas manigfeald wīsan. Oftost is þæt mid “fiscaþ” yclepedum swīc-dōme (phishing). Hīe sendaþ fægere-gelīce gewritu tō monnum, þe gelīcaþ sōðum sendungum fram bōcland-hēoldum (banks), frēondum, oþþe weorce-hūsum (companies). Þā gewritu oft hæbbaþ bindas (links) oþþe fīla (attachments) þe, þonne geopenode, sēo Rænsumwǣre onginnþ. Ōðer wīsa is mid "ūpbrȳcum" (exploits) tō brūcanne, þǣr se Rænsumwǣre findþ unġewealdige dǣlas (vulnerabilities) on þæs rīmstæf-mǣgenes endihtnesse (operating system) oþþe sōfte-wǣre. Þā unġewealdige dǣlas sindon oft unġefrēfrodu yfelu (unpatched vulnerabilities). Þæt mæg bēon þurh sumne webb-brǣce (web browser flaw) oþþe netweorc-dǣl (network component) þe ne is fæst. Hīe brūcaþ ēac "tōcīepinge" (malvertising), þǣr yfel-gewritu sindon behȳded in hlyst-gewrite (advertisement) on gefrēnum webb-stowum. Þonne mann þæt hlyst-gewrit gesihþ, sēo Rænsumwǣre mæg onrīnan būton mannes willan. Æfter onrīnung, sēo Rænsumwǣre fæstnaþ hīene selfne on þǣre endihtnesse, behȳdende hīene oþþe gesettende hīene swā þæt hit onginnþ mid rīmstæf-mǣgenes up-āsprincunge. Þes dǣl is hefig, forðon sēo Rænsumwǣre sceal dīegle bēon tō forgytanne fram weardum. Hīe mōtan ēac ehtan þā rīmstæf-mǣgenes netweorc tō sēcanne ōðre rīmstæf-mǣgenu tō onrīnan.
+
+**Stæpe 3: Weorc and Cȳfrung (Execution and Encryption)**
+
+*   **Ealde Wīsa:**
+    Fīla cȳfran, eall gehȳdan. Ne mæg geopenian.
+*   **Nīwe Wīsa:**
+    Þonne sēo Rænsumwǣre hafaþ onrīnung genumen, hit onginnþ his hefigoste weorc: þā fīla cȳfran. Þis dēaþ is cræftlic. Se Rænsumwǣre sēceþ ealle hefige fīla on þæs rīmstæf-mǣgenes dīsce (hard drive), and on ōðrum gehæftnerum (storage devices), swā swā netweorc-hēold (network shares) oþþe ofendum gehæftnere (cloud storage) þurh þæt rīmstæf-mǣgen. Hīe brūcaþ twēgen cȳfrunga-wīsan. Ǣrest, hīe brūcaþ ānne swīþe fæstne, dīegle cǣġe tō cȳfranne ǣlce fīle. Þes cǣġ is oft ānfeald for ǣlce fīle oþþe rīmstæf-mǣgen. Þonne, þes ānfealde cǣġ is self gehȳded mid þǣre ōðerre, open-līce cǣġe (public key) þæs yfel-weorces. Þæt mǣnþ þæt sēo fīle-cǣġ is nū gehȳded mid þǣm yfel-weorces openan cǣġe, and cann bēon geopenod efne mid þǣre yfel-weorces dīeglan cǣġe. Sēo Rænsumwǣre oft læteþ un-gecȳfrude þā fīla þe sindon hefige for þæt rīmstæf-mǣgenes weorc-endihtnesse (operating system), swā þæt hit mæg gēn weorcan, and sēo gewemmede mann mæg sēo Rænsumwǣre-bōc rædan. Æfter cȳfrunge, sēo Rænsumwǣre oft dēaðfæstlicor āfīfþ (deletes) þā fruman fīla, and ēac gewemmiaþ oþþe cȳfraþ bace-up fīla (backup files) and dōþ ofstungen (shadow copies). On sumum nīwum Rænsumwǣrum, hīe ne efne cȳfraþ fīla, ac hīe ēac stelaþ þā fīla (data exfiltration) ǣr hīe cȳfraþ. Þonne hīe ēac demiaþ (threaten) tō āweorpienne (release) þā gestolene fīla on webbe, ġif feoh ne bēo forġielden. Þis is ycleped "dūbel-ǣmetung" (double extortion).
+
+**Stæpe 4: Feoh-gield Beden and Gylding (Demand and Payment)**
+
+*   **Ealde Wīsa:**
+    Feoh onfōn, cǣġ forgyfan. Bōc gesettan.
+*   **Nīwe Wīsa:**
+    Þonne ealle fīla sindon gecȳfrude, sēo Rænsumwǣre forlæt ānne cȳfrunga-bōc (ransom note) on þæs gewemmodan rīmstæf-mǣgenes scrīne (desktop) oþþe on ǣlcum folderum (directories) þǣr fīla wǣron cȳfrude. Þes bōc is swīþe clǣne and fela sprecende, sēo mǣneþ hū þæt feoh sceal bēon forġielden. Þæt bōc tōsecgaþ þone cȳfrunga-wīsan, þæt gewemmodan mægne hū man hine sylfne mǣge oncȳfran, and sēo sǣm tō þǣre gieldinge. On nīwum tīdum, þā feoh-gyld sindon nū oftost ġedōne mid "dyrne-feoh" (cryptocurrency), swā swā Bitcoin, Monero, oþþe ōðrum þȳ gelīcum. Þis dyrne-feoh is brūcod forðon hit is swīþe dīegle and unġefundenlic, swā þæt þā yfel-weorcas mōtan heora feoh onfōn būton bēon gefundene. Þæt bōc oftehþ þæt mann sceal ānne dīeglan bindan (link) tō ānre webb-stowe on þǣre "dyrnan webbe" (dark web), þǣr sēo gewemmede mæg sprecan mid þǣm yfel-weorcum oþþe sēo gielding dōn. Hīe settaþ oft ānne tīme-ġesceawere (countdown timer) on þǣre bōce, se tōsecgaþ hū lang þæt gewemmodan mæg feoh forġieldan. Ǣfter þǣm tīme, þæt feoh mæg bēon swīþe geīeced, oþþe þā fīla mōtan bēon fullīce forlorene. On sumum wīsum, gif þæt feoh ne bēo forġielden, hīe mōtan ēac āweorpan þā gestolene fīla on þæt woruldwebb, swā swā on Stæpe 3 gesægd. Þes dǣl is dēaðfæstlic, forðon se is sēo mǣġen-wīsa þæt se yfel-weorc mæg his feoh āgan.
+
+**Stæpe 5: Oncȳfrung and Æfter-tīd (Decryption and Aftermath)**
+
+*   **Ealde Wīsa:**
+    Feoh onfōn, cǣġ cymeþ. Fīla geopenode.
+*   **Nīwe Wīsa:**
+    Gif þæt gewemmodan þæt feoh forġilt, þā yfel-weorcas oftost sendaþ þæt dīegle cǣġ tō þǣm gewemmodan, oþþe ānne weorc-tōl (decryption tool) þæt mæg þā fīla oncȳfran. Ac þes dēaþ ne is nā gewiss. Nā ealle yfel-weorcas healdaþ heora word, and sume sendaþ nōwiht, oþþe sendaþ ānne tōl þæt ne weorcaþ. Sumu sendaþ eft ānne ōðerne yfel-weorc. Ǣfter þǣre oncȳfrunge, sēo rīmstæf-mǣgen is oft gehāl, ac sēo scīere (damage) mæg gēn bēon micel. Þæt costung þæs feoh-gieldes cann bēon swīþe hefig, and sēo tīma þæt weorc-hūs (company) hæfþ standende āfīfed (downtime) mæg ēac bēon micel. Þæt mæg ēac bēon þæt sumu fīla ne mōtan bēon fullīce geoncȳfrude, oþþe þæt þā yfel-weorcas forlætaþ dīegle cǣġa oþþe ōðer yfel-wǣre on þǣre rīmstæf-mǣgene tō brūcanne eft. Ǣlc gewemmode sceal sīne rīmstæf-mǣgen clǣnsian, ealle sōfte-wǣre un-ġeniman and eft-ġesettan (reinstall), and weorc-endihtnesse gefrēfrian (patch and update). Gif þæt feoh ne bēo forġielden, þā fīla bēoþ forlorene. Gif hīe ne hæbbaþ gōde bace-up fīla (backups) on ānre ōðre stowum, þonne sindon þā fīla ēce forlorene. Þæt mǣnþ micelne scīere for weorc-hūsum, oþþe for ānfealdum monnum. Forðon is hefigost þæt man sceal his fīla oft bace-upian (backup). Þæt āfter-tīd þæs Rænsumwǣre-onsæcces is oft lang and hefig, mid micelre costunge, nales feoh āna, ac ēac tīma and trēowe forlorene.

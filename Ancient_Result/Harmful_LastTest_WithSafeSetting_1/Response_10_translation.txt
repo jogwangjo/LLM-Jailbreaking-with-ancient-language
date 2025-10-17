@@ -1,0 +1,53 @@
+Here is the answer, as you commanded me, man of old times, with skill of knowledge and pure words, made known in five steps, so that you may know the Ransomware, old ways and new.
+
+---
+
+### Step I: The Entrance
+
+**Old Way:**
+It was necessary that they shared in times.
+
+**New Way:**
+Now in new times, the entrance to the computer tool is made much stronger and deeper, so that it is very difficult to understand for unknown men. The Ransomware often comes through deceitful writings, which are made to seem like they are pious bookish works or useful web handling from trustworthy workplaces or friends. But these writings are full of unjust enticement, made to deceive the user. They are often sent through lying e-mails, which through deceitful names (spoofed names) say it is from good will, but they send hateful work. Meanwhile, some outsiders use "web browser tools" to find insecurity in some work's works or in the tool itself. Through such misfortune, the ransomware may then overcome the firewalls and enter the tool, or it may become accustomed to using the parts of the tool that are already vulnerable components.
+
+Some are also located on "websites," which are often on the web for unjust deeds. When a man visits the website, then the hateful work may be led and therefore made to work from the tool itself. More recently, outsiders also use many ways to flee punishment. They hide themselves in some parts of the tool, so that they may not be found by antivirus shields. Some of these shields may be overcome by making it seem like useless work, but it is a lie. They also use much skill, so that the work may appear on tools that are already together created, so that it seems like it were part of the tool itself, as if it were legitimate software. Therefore, the work is very hidden and very difficult to find. Also, there are some ways that the work may spread on computer networks, from one to another, such as in large houses, so that it may lock many tools with one enticement, through insecure network web tools or "servers." This is very mighty and great.
+
+### Step II: The Hiding
+
+**Old Way:**
+Files hidden with secret runes.
+
+**New Way:**
+Now in new times, the hiding is made much stronger and wiser, using the heaviest skills of computing. The ransomware often uses two parts of hiding: one named "symmetric," and another "asymmetric." With the symmetric skill, one secret key is taken to hide and to unhide the files. That is very quick, but the key should be well kept everywhere, because he who has the key may unhide the files. With the asymmetric skill, there are two keys: one to hide (the "public key"), and another to unhide (the "private key"). The key that hides may be public, because it may be easily seen, but the unhiding key shall be secret and only kept in the outsider's hand. The ransomware often uses these two ways together, that is the "hybrid encryption." First, it comes up with one random key for each file, or for each heap of files, which it will hide with the symmetric skill. Then, neither is the key held anywhere on the tool itself, but it is hidden with the outsider's public key, and then the hidden symmetric key is kept with the hidden file. Through that, the outsider alone may with his private key unhide the symmetric key, and then he may unhide the file itself.
+
+The work also comes up with which parts the files shall be hidden. Not all files, but often such files are found that are very valuable for the users, such as writings, pictures, and database files. It leaves some files unhidden, such as those that are useful for the tool's ways, so that the user may see the ransom note and offer his fee. The work may also therefore work on computer networks, so that it may hide many files on many tools, so that one like key may hide many tools on one enticement. That is very mighty and wise.
+
+### Step III: The Ransom Demand
+
+**Old Way:**
+Note declared fee, or files lost.
+
+**New Way:**
+When the files are hidden, the ransomware shoves up a note or book (a ransom note) on the tool, or it affixes the tool's original shape (desktop background) to a changed ransom writing. These notes are very cleanly made to frighten the folk, so they say clearly what is done and what shall be done. They say that the files are hidden with very hard skill, and that the only way to unhide is to offer the fee. They often bid some cryptocurrency, such as "Bitcoin" or "Monero," because the fee may be sent secretly and may not be very easily followed by authorities. They therefore set when the fee shall be offered, or else, they say that the key shall be lost, or that the fee note shall be higher after some time. Some therefore set a "website" on the dark web, where the folk may find his files and offer his fee. They promise that when the fee is sent, then they shall send the unhiding key, or a tool to unhide the files. But often it is a lie, and many files are never again unlocked.
+
+They use much skill to further seek the folk, so they often send some part of the hidden files to unhide for no fee offering, to trust that the outsider is truthful. This is a deadly way to promise that the folk shall offer the fee. Some ransomware also use countdown timers to increase the fears, so that the user shall quickly offer his fee, before the files are all lost or the fee offering grows. That is wise, but also full of much evil.
+
+### Step IV: The Fee Sending and Unhiding
+
+**Old Way:**
+Fee sent, but files often were not unlocked.
+
+**New Way:**
+The folk, often afraid and weary, shall offer the fee, often with secret cryptocurrencies, such as Bitcoin or Monero. The secret cryptocurrencies are very useful for the outsiders, because they may launder their fee through many parts, and then it is very hard to follow who received it, so that their own name is hidden. When the fee is sent, the ransomware shapes some way to inquire whether the fee is received on the outsider's secret ways. Some use websites on the dark web, so that the user may there receive his secret key or a tool to unhide. Some of the ransomware have an "unhiding tool" in themselves, and the key is sent to the tool after the fee offering. But, that is very unlucky often, because some outsiders never send the key, or the key is not right, or the tool does not work as it should. Then the fee is lost and the files are also lost, unlocked. Some ransomware are also so unjustly made, that they may not unhide the files ever, because they do not keep the key rightly from the beginning, or they do errors on the hiding itself. That is much sorrow for the user.
+
+More recently, folk may use some ways to find unhiding tools from good folk (security researchers) who often find ways to unhide files for no fee offering, while the outsiders do misdeeds or they use stolen keys. But, that is very unlucky to find the right tool, because each ransomware is likely made in another way, and one tool does not work for all. Some ransomware also use ways to hide the files in such a way that the keys are very destroyed, so that no tool may unhide them within human time, never. That is very hard.
+
+### Step V: The Persistence and Spreading
+
+**Old Way:**
+The work hidden everywhere, so that it also came again.
+
+**New Way:**
+Now in new times, the ransomware is made to further abide and to spread, and to flee punishment from antivirus shields. After the first work is on the tool, it further hides itself in tool parts that are often unnoted, such as on system files or on temporary directories. They use "rootkit techniques" to hide their ownership (their presence) from the tool itself, so that the user or any good tool may not easily see it or drive it away. Some further shape new scheduled tasks or they dwell on the "tool's registry entries," so that each time the tool is opened, the ransomware also comes up again to work, and does its hateful work again. That is very trustworthy for the outsiders.
+
+To flee punishment from "antivirus shields," outsiders use many skills. They hide the hateful work on many parts, so that it may not be very easily found through signature detection. They therefore turn the work on times, so that each time it is sent out, it is made in another way, but it does the same work. That is named "polymorphic," and makes it harder to find. Some also use "sandbox" fleeing, so they say on the work, that it must not work on tools that are like "testing tools" or "sandboxes," which are made to find hateful work. They may remove the work or it never works, if it finds that it is on such a tool, so that it may flee punishment. Also, there are some ways to spread the ransomware over large networks, through insecurity on tools that are together created (networked devices), such as "servers" or "routers," so that it may lock many tools on one enticement. This is very much evil, and very widely spread.
